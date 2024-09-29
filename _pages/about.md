@@ -28,7 +28,7 @@ Publications
   <div style="flex: 1;">
     We present the Fine-Grained Task Planning (FGTP) framework, which uses object ontology and Large Language Models (LLMs) to create detailed action plans. FGTP processes text and images to understand object attributes and uses logic-based reasoning to find alternatives if tasks fail. Tests in VirtualHome and with the TIAGo robot confirm its effectiveness.
   </div>
-  <div style="flex-shrink: 0; margin-left: 20px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="images/RAL-Flowdiagram.png" alt="Flow Diagram" style="max-width: 300px;"/>
   </div>
 </div>
