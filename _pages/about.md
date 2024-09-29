@@ -11,7 +11,6 @@ I am a second-year master student at the [School of Control Science and Engineer
 
 My research interests include service robotics, task planning, and embodied intelligence.
 
-[Email](lixd@mail.sdu.edu.cn) / [Github](https://github.com/Li-XD-Pro) / [CSDN](https://blog.csdn.net/python_plus?spm=1000.2115.3001.5343)
 
 
 Education Experience
@@ -26,5 +25,24 @@ B.S. in Qingdao, China University of Petroleum（East China）, 2019
 Publications
 ------
 
-<img align="right" src="RAL-Flowdiagram.png"/>
+<img align="right" src="images/RAL-Flowdiagram.png"/>
 
+
+
+Participate in a project or competition
+------
+Chinese Collegiate Computing Competition Third Prize，2022
+
+
+
+Honors & Awards
+------
+Graduate Freshmen Scholarship, 2024
+Excellent Student Scholarship, 2022
+CNPC Scholarship, 2021
+National Scholarship, 2020
+
+
+
+
+[Email](lixd@mail.sdu.edu.cn) / [Github](https://github.com/Li-XD-Pro) / [CSDN](https://blog.csdn.net/python_plus?spm=1000.2115.3001.5343)
