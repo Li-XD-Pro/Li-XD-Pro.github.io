@@ -60,7 +60,7 @@ Participate in a project or competition
 
 Honors & Awards
 ------
-* Graduate Freshmen Scholarship, 2024
+* Graduate Freshmen Scholarship, 2023
 
 * Excellent Student Scholarship, 2022
 
@@ -68,5 +68,3 @@ Honors & Awards
 
 * National Scholarship, 2020
 
-
-[Email](lixd@mail.sdu.edu.cn) / [Github](https://github.com/Li-XD-Pro) / [CSDN](https://blog.csdn.net/python_plus?spm=1000.2115.3001.5343)
