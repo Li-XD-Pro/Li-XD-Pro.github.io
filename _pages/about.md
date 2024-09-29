@@ -20,8 +20,6 @@ Education Experience
 * B.S. in Qingdao, China University of Petroleum (East China), 2019
 
 
-
-
 Publications
 ------
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; padding: 20px; border-bottom: 1px solid #ddd;">
@@ -33,7 +31,7 @@ Publications
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 0.8; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian, Yongcheng Cui</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;">RAL 2024</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;">  <a href="https://ieeexplore.ieee.org/document/10553231" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/FGTP" style="color: #1a73e8;">Code</a></p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We present the Fine-Grained Task Planning (FGTP) framework, which uses object ontology and Large Language Models (LLMs) to create detailed action plans. FGTP processes text and images to understand object attributes and uses logic-based reasoning to find alternatives if tasks fail. Tests in VirtualHome and with the TIAGo robot confirm its effectiveness.</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We introduce the Fine-Grained Task Planning (FGTP) framework, which uses object ontology and LLMs to generate action plans and identify alternatives when tasks fail.</p>
   </div>
 </div>
 
@@ -46,19 +44,14 @@ Publications
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 0.8; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian, Yongcheng Cui, Yu Gu</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;">IROS 2024</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;"><a href="[https://github.com/Li-XD-Pro/FGTP](https://github.com/Li-XD-Pro/Household-Object-Organization)" style="color: #1a73e8;">Code</a></p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We introduce a dataset of household objects' properties and relationships, along with a graph-based model combining GAT and BERT to predict these relationships. Using a Transformer framework, our approach improves robots' ability to organize objects by accurately predicting their relationships.</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We introduce a dataset of household object properties and a graph-based model combining GAT and BERT to predict relationships, improving robots' object organization using a Transformer framework.</p>
   </div>
 </div>
-
-
-
 
 
 Participate in a project or competition
 ------
 * Chinese Collegiate Computing Competition Third Prize，2022
-
-
 
 Honors & Awards
 ------
@@ -69,7 +62,6 @@ Honors & Awards
 * CNPC Scholarship, 2021
 
 * National Scholarship, 2020
-
 
 
 [Email](lixd@mail.sdu.edu.cn) / [Github](https://github.com/Li-XD-Pro) / [CSDN](https://blog.csdn.net/python_plus?spm=1000.2115.3001.5343)
