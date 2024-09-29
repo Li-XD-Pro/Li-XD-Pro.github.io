@@ -15,39 +15,43 @@ My research interests include service robotics, task planning, and embodied inte
 
 Education Experience
 ------
-* M.S. in Jinan,Shandong University, 2023
+* M.S. in Jinan, Shandong University, 2023
 
-* B.S. in Qingdao, China University of Petroleum（East China）, 2019
+* B.S. in Qingdao, China University of Petroleum (East China), 2019
 
 
 
 
 Publications
 ------
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
   <div style="flex-shrink: 0; margin-right: 20px; font-size: 24px; font-weight: bold;">
     1.
   </div>
   <div style="flex: 1;">
-    We present the Fine-Grained Task Planning (FGTP) framework, which uses object ontology and Large Language Models (LLMs) to create detailed action plans. FGTP processes text and images to understand object attributes and uses logic-based reasoning to find alternatives if tasks fail. Tests in VirtualHome and with the TIAGo robot confirm its effectiveness.
+    <h3 style="margin: 0 0 10px 0; font-size: 20px;">Fine-Grained Task Planning for Service Robots Based on Object Ontology Knowledge via Large Language Models</h3>
+    <p style="margin: 0 0 10px 0; font-style: italic;">RAL 2024</p>
+    <p>We present the Fine-Grained Task Planning (FGTP) framework, which uses object ontology and Large Language Models (LLMs) to create detailed action plans. FGTP processes text and images to understand object attributes and uses logic-based reasoning to find alternatives if tasks fail. Tests in VirtualHome and with the TIAGo robot confirm its effectiveness.</p>
   </div>
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img src="images/RAL-Flowdiagram.png" alt="Flow Diagram" style="max-width: 300px;"/>
+    <img src="images/RAL-Flowdiagram.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;"/>
   </div>
 </div>
 
-
-<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
+<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
   <div style="flex-shrink: 0; margin-right: 20px; font-size: 24px; font-weight: bold;">
     2.
   </div>
   <div style="flex: 1;">
-    We introduce a dataset of household objects' properties and relationships, along with a graph-based model combining GAT and BERT to predict these relationships. Using a Transformer framework, our approach improves robots' ability to organize objects by accurately predicting their relationships.
+    <h3 style="margin: 0 0 10px 0; font-size: 20px;">Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology</h3>
+    <p style="margin: 0 0 10px 0; font-style: italic;">IROS 2024</p>
+    <p>We introduce a dataset of household objects' properties and relationships, along with a graph-based model combining GAT and BERT to predict these relationships. Using a Transformer framework, our approach improves robots' ability to organize objects by accurately predicting their relationships.</p>
   </div>
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img src="images/IROS-Structure.png" alt="Flow Diagram" style="max-width: 300px;"/>
+    <img src="images/IROS-Structure.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;"/>
   </div>
 </div>
+
 
 
 
