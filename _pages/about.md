@@ -34,7 +34,14 @@ Publications
 </div>
 
 
-
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    We introduce a dataset of household objects' properties and relationships, along with a graph-based model combining GAT and BERT to predict these relationships. Using a Transformer framework, our approach improves robots' ability to organize objects by accurately predicting their relationships.
+  </div>
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="images/IROS-Structure.png" alt="Flow Diagram" style="max-width: 300px;"/>
+  </div>
+</div>
 
 
 Participate in a project or competition
