@@ -15,9 +15,9 @@ My research interests include service robotics, task planning, and embodied inte
 
 Education Experience
 ------
-M.S. in Jinan,Shandong University, 2023
+* M.S. in Jinan,Shandong University, 2023
 
-B.S. in Qingdao, China University of Petroleum（East China）, 2019
+* B.S. in Qingdao, China University of Petroleum（East China）, 2019
 
 
 
@@ -31,19 +31,19 @@ Publications
 
 Participate in a project or competition
 ------
-Chinese Collegiate Computing Competition Third Prize，2022
+* Chinese Collegiate Computing Competition Third Prize，2022
 
 
 
 Honors & Awards
 ------
-Graduate Freshmen Scholarship, 2024
+* Graduate Freshmen Scholarship, 2024
 
-Excellent Student Scholarship, 2022
+* Excellent Student Scholarship, 2022
 
-CNPC Scholarship, 2021
+* CNPC Scholarship, 2021
 
-National Scholarship, 2020
+* National Scholarship, 2020
 
 
 
