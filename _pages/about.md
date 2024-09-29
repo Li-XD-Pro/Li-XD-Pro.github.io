@@ -38,8 +38,11 @@ Chinese Collegiate Computing Competition Third Prize，2022
 Honors & Awards
 ------
 Graduate Freshmen Scholarship, 2024
+
 Excellent Student Scholarship, 2022
+
 CNPC Scholarship, 2021
+
 National Scholarship, 2020
 
 
