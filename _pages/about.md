@@ -32,10 +32,10 @@ Publications
     <img src="images/RAL-Flowdiagram.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
-    <h2 style="margin: 0 0 10px 0; font-size: 16px; color: #1a73e8;">Fine-Grained Task Planning for Service Robots Based on Object Ontology Knowledge via Large Language Models</h2>
-    <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 0.8; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian, Yongcheng Cui</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;">RAL 2024</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;">  <a href="https://ieeexplore.ieee.org/document/10553231" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/FGTP" style="color: #1a73e8;">Code</a></p>
+    <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Fine-Grained Task Planning for Service Robots Based on Object Ontology Knowledge via Large Language Models</h2>
+    <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian, Yongcheng Cui</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">RAL 2024</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">  <a href="https://ieeexplore.ieee.org/document/10553231" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/FGTP" style="color: #1a73e8;">Code</a></p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We introduce the Fine-Grained Task Planning (FGTP) framework, which uses object ontology and LLMs to generate action plans and identify alternatives when tasks fail.</p>
   </div>
 </div>
@@ -45,10 +45,10 @@ Publications
     <img src="images/IROS-Structure.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
-    <h2 style="margin: 0 0 10px 0; font-size: 16px; color: #1a73e8;">Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology</h2>
-    <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 0.8; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian, Yongcheng Cui, Yu Gu</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;">IROS 2024</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;"><a href="[https://github.com/Li-XD-Pro/FGTP](https://github.com/Li-XD-Pro/Household-Object-Organization)" style="color: #1a73e8;">Code</a></p>
+    <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology</h2>
+    <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian, Yongcheng Cui, Yu Gu</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IROS 2024</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"><a href="[https://github.com/Li-XD-Pro/FGTP](https://github.com/Li-XD-Pro/Household-Object-Organization)" style="color: #1a73e8;">Code</a></p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We introduce a dataset of household object properties and a graph-based model combining GAT and BERT to predict relationships, improving robots' object organization using a Transformer framework.</p>
   </div>
 </div>
