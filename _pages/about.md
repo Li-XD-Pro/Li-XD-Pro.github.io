@@ -11,6 +11,9 @@ I am a second-year master student at the [School of Control Science and Engineer
 
 My research interests include service robotics, task planning, and embodied intelligence.
 
+<div style="text-align: center;">
+  [Email](mailto:lixd@mail.sdu.edu.cn) / [Github](https://github.com/Li-XD-Pro) / [CSDN](https://blog.csdn.net/python_plus?spm=1000.2115.3001.5343)
+</div>
 
 
 Education Experience
