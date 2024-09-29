@@ -48,7 +48,7 @@ Publications
     <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology</h2>
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian, Yongcheng Cui, Yu Gu</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IROS 2024</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"><a href="[https://github.com/Li-XD-Pro/FGTP](https://github.com/Li-XD-Pro/Household-Object-Organization)" style="color: #1a73e8;">Code</a></p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://github.com/Li-XD-Pro/Household-Object-Organization" style="color: #1a73e8;">Code</a></p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We introduce a dataset of household object properties and a graph-based model combining GAT and BERT to predict relationships, improving robots' object organization using a Transformer framework.</p>
   </div>
 </div>
