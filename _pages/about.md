@@ -25,23 +25,30 @@ Education Experience
 Publications
 ------
 <div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex-shrink: 0; margin-right: 20px; font-size: 24px; font-weight: bold;">
+    1.
+  </div>
   <div style="flex: 1;">
     We present the Fine-Grained Task Planning (FGTP) framework, which uses object ontology and Large Language Models (LLMs) to create detailed action plans. FGTP processes text and images to understand object attributes and uses logic-based reasoning to find alternatives if tasks fail. Tests in VirtualHome and with the TIAGo robot confirm its effectiveness.
   </div>
-  <div style="flex-shrink: 0; margin-right: 20px;">
+  <div style="flex-shrink: 0; margin-left: 20px;">
     <img src="images/RAL-Flowdiagram.png" alt="Flow Diagram" style="max-width: 300px;"/>
   </div>
 </div>
 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px;">
+  <div style="flex-shrink: 0; margin-right: 20px; font-size: 24px; font-weight: bold;">
+    2.
+  </div>
   <div style="flex: 1;">
     We introduce a dataset of household objects' properties and relationships, along with a graph-based model combining GAT and BERT to predict these relationships. Using a Transformer framework, our approach improves robots' ability to organize objects by accurately predicting their relationships.
   </div>
-  <div style="flex-shrink: 0; margin-right: 20px;">
+  <div style="flex-shrink: 0; margin-left: 20px;">
     <img src="images/IROS-Structure.png" alt="Flow Diagram" style="max-width: 300px;"/>
   </div>
 </div>
+
 
 
 Participate in a project or competition
@@ -59,7 +66,6 @@ Honors & Awards
 * CNPC Scholarship, 2021
 
 * National Scholarship, 2020
-
 
 
 
