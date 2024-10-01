@@ -18,13 +18,9 @@ My research interests include service robotics, task planning, and embodied inte
 
 News
 ------
-* Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by IROS 2024
+* Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **IROS 2024**
 
-* Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by RAL 2024
-
-* Sep, 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start my B.S. at SDU
-
-* Jun, 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate and obtain my Bachelor’s degree from UPC
+* Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **RAL 2024**
 
 
 Publications
