@@ -1,15 +1,16 @@
 ---
 permalink: /
-title: "Personal Profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a second-year master student at the [School of Control Science and Engineering](https://control.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/?lailu=www.0dh.cn). 
+I am a second-year master student at the [School of Control Science and Engineering](https://control.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/?lailu=www.0dh.cn), specializing in control engineering, with a primary research interest in service robotics, and I graduated from China University of Petroleum (East China) with a B.S. degree in 2023.
 
-My research interests include service robotics, task planning, and embodied intelligence.
+My research interests include service robotics, task planning, and embodied intelligence. Currently, I am working on general-purpose robotics approaches that can understand human commands and interact with the physical world to execute them.
+
+Translated with www.DeepL.com/Translator (free version)
 
 <div style="text-align: center;">
   <a href="mailto:lixd@mail.sdu.edu.cn">Email</a> / 
@@ -17,12 +18,15 @@ My research interests include service robotics, task planning, and embodied inte
   <a href="https://blog.csdn.net/python_plus?spm=1000.2115.3001.5343">CSDN</a>
 </div>
 
-
-Education Experience
+News
 ------
-* M.S. in Jinan, Shandong University, 2023
+* Jun, 2024                  Our Paper has been accepted by IROS 2024
 
-* B.S. in Qingdao, China University of Petroleum (East China), 2019
+* Jun, 2024                  Our Paper has been accepted by RAL 2024
+
+* Sep, 2023                  Start my B.S. at SDU
+
+* Jun, 2023                  Graduate and obtain my Bachelor’s degree from UPC
 
 
 Publications
@@ -54,17 +58,17 @@ Publications
 </div>
 
 
-Participate in a project or competition
-------
-* Chinese Collegiate Computing Competition Third Prize，2022
-
-Honors & Awards
+Experiences
 ------
 * Graduate Freshmen Scholarship, 2023
+
+* Chinese Collegiate Computing Competition Third Prize，2022
 
 * Excellent Student Scholarship, 2022
 
 * CNPC Scholarship, 2021
 
 * National Scholarship, 2020
+
+
 
