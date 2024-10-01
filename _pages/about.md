@@ -10,8 +10,6 @@ I am a second-year master student at the [School of Control Science and Engineer
 
 My research interests include service robotics, task planning, and embodied intelligence. Currently, I am working on general-purpose robotics approaches that can understand human commands and interact with the physical world to execute them.
 
-Translated with www.DeepL.com/Translator (free version)
-
 <div style="text-align: center;">
   <a href="mailto:lixd@mail.sdu.edu.cn">Email</a> / 
   <a href="https://github.com/Li-XD-Pro">Github</a> / 
@@ -20,13 +18,13 @@ Translated with www.DeepL.com/Translator (free version)
 
 News
 ------
-* Jun, 2024                  Our Paper has been accepted by IROS 2024
+* Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by IROS 2024
 
-* Jun, 2024                  Our Paper has been accepted by RAL 2024
+* Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by RAL 2024
 
-* Sep, 2023                  Start my B.S. at SDU
+* Sep, 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Start my B.S. at SDU
 
-* Jun, 2023                  Graduate and obtain my Bachelor’s degree from UPC
+* Jun, 2023 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Graduate and obtain my Bachelor’s degree from UPC
 
 
 Publications
