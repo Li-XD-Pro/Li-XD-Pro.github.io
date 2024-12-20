@@ -53,13 +53,7 @@ Publications
 
 Experiences
 ------
-* Graduate Freshmen Scholarship, 2023
-
-* Chinese Collegiate Computing Competition Third Prize，2022
-
-* Excellent Student Scholarship, 2022
-
-* CNPC Scholarship, 2021
+* National Scholarship, 2024
 
 * National Scholarship, 2020
 
