@@ -51,7 +51,7 @@ Publications
   </div>
 </div>
 
-Experiences
+Honors
 ------
 * National Scholarship, 2024
 
