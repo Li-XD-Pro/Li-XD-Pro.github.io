@@ -29,6 +29,18 @@ Publications
 ------
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; padding: 20px; border-bottom: 1px solid #ddd;">
   <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="images/TIE_Flow.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Task Guided Multimodal Object Search for Service Robots via Reinforcement Learning</h2>
+    <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian, Yongcheng Cui</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IEEE Transactions on Industrial Electronics, 2025</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We present a task-guided multimodal object search method for service robots, combining visual, semantic, and object relationship data to improve search efficiency.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; padding: 20px; border-bottom: 1px solid #ddd;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="images/IROS-Structure.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
