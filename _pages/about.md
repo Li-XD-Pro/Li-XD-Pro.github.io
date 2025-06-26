@@ -18,6 +18,8 @@ My research interests include service robotics, task planning, and embodied inte
 
 News
 ------
+* Jun, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **TIE 2025**
+
 * Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **IROS 2024**
 
 * Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **RAL 2024**
