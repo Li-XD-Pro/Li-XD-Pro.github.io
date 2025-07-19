@@ -35,6 +35,7 @@ Publications
     <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Task Guided Multimodal Object Search for Service Robots via Reinforcement Learning</h2>
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian, Yongcheng Cui</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IEEE Transactions on Industrial Electronics, 2025</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/abstract/document/10802781" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/Household-Object-Organization" style="color: #1a73e8;">Code</a></p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We present a task-guided multimodal object search method for service robots, combining visual, semantic, and object relationship data to improve search efficiency.</p>
   </div>
 </div>
