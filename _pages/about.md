@@ -6,9 +6,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year master student at the [School of Control Science and Engineering](https://control.sdu.edu.cn/), [Shandong University](https://www.sdu.edu.cn/?lailu=www.0dh.cn), specializing in control engineering, with a primary research interest in service robotics, and I graduated from China University of Petroleum (East China) with a B.S. degree in 2023.
 
-My research interests include service robotics, task planning, and embodied intelligence. Currently, I am working on general-purpose robotics approaches that can understand human commands and interact with the physical world to execute them.
+I am a PhD student in the Service Robotics Laboratory, [School of Control Science and Engineering](https://control.sdu.edu.cn/), Shandong University, under the supervision of Prof. Guohui Tian. I graduated from China University of Petroleum (East China) in June 2023 with a Bachelor of Science degree. My research interests include service robots, embodied intelligence, and task planning.
+
+My research focuses on the robot brain, specifically on how to improve the robot brain's ability to plan long-sequence tasks and provide embodied guidance for navigation and grasping skills, thereby truly endowing robots with intelligent capabilities.
+
 
 <div style="text-align: center;">
   <a href="mailto:lixd@mail.sdu.edu.cn">Email</a> / 
