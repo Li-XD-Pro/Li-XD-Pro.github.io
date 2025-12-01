@@ -20,6 +20,8 @@ My research focuses on the robot brain, specifically on how to improve the robot
 
 News
 ------
+* Nov, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **EAAI 2025**
+
 * Jun, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **TIE 2025**
 
 * Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **IROS 2024**
