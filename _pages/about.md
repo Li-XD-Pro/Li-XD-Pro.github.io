@@ -12,12 +12,6 @@ I am a PhD student in the Service Robotics Laboratory, [School of Control Scienc
 My research focuses on the robot brain, specifically on how to improve the robot brain's ability to plan long-sequence tasks and provide embodied guidance for navigation and grasping skills, thereby truly endowing robots with intelligent capabilities.
 
 
-<div style="text-align: center;">
-  <a href="mailto:lixd@mail.sdu.edu.cn">Email</a> / 
-  <a href="https://github.com/Li-XD-Pro">Github</a> / 
-  <a href="https://blog.csdn.net/python_plus?spm=1000.2115.3001.5343">CSDN</a>
-</div>
-
 News
 ------
 * Dec, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **TCSVT 2025**
