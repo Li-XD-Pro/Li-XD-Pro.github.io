@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 show_title: false
 header: false
+title_label: false
 ---
 
 # About Me
