@@ -88,6 +88,3 @@ Honors
 ------
 * National Scholarship, 2024 (Master)
 * National Scholarship, 2020 (Undergraduate)
-
-
-
