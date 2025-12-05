@@ -89,5 +89,5 @@ My research focuses on the robot brain, specifically on how to improve the robot
 * [2022.08] &nbsp;&nbsp; The 15th Chinese Collegiate Computing Competition, Third Prize
 
 ## Scholarship
-* [2024.12] &nbsp;&nbsp; National Scholarship, 2024 (Master)
-* [2020.12] &nbsp;&nbsp; National Scholarship, 2020 (Undergraduate)
+* [2024.12] &nbsp;&nbsp; National Scholarship (Master)
+* [2020.12] &nbsp;&nbsp; National Scholarship (Undergraduate)
