@@ -1,11 +1,12 @@
 ---
 permalink: /
+layout: single
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 I am a PhD student in the Service Robotics Laboratory, [School of Control Science and Engineering](https://control.sdu.edu.cn/), Shandong University. My research interests include service robots, embodied intelligence, and task planning.
 
