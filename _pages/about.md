@@ -29,6 +29,32 @@ Publications
 ------
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; padding: 20px; border-bottom: 1px solid #ddd;">
   <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="images/TCSVT2025.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Semantically Guided Task Planning: Supervised Vision Language Action Model by Large Language Models</h2>
+    <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian*, et al.</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IEEE Transactions on Circuits and Systems for Video Technology 2025</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/document/11080265" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/SS-VLA" style="color: #1a73e8;">Code</a></p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We proposes SS-VLA, a semantically supervised vision-language-action model combining LLMs' reasoning and VLAs' action generation.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; padding: 20px; border-bottom: 1px solid #ddd;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img src="images/EAAI2025.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">GRHP: Graph-Fused Hierarchical Planning for Embodied Long-Horizon Robotic Task</h2>
+    <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian*, et al.</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">Engineering Applications of Artificial Intelligence, 2025</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/document/11080265" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/LL00qw/GRHP" style="color: #1a73e8;">Code</a></p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We present GRHP, a novel embodied long-horizon robotic planning framework with dual-graph (scene/task) and hierarchical (large/small models) structures.</p>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; padding: 20px; border-bottom: 1px solid #ddd;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="images/TIE2025.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
