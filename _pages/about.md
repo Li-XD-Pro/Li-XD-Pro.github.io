@@ -29,7 +29,7 @@ Publications
 ------
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; padding: 20px; border-bottom: 1px solid #ddd;">
   <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="images/TIE_Flow.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
+    <img src="images/TIE_Flow_Latest.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
     <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Task Guided Multimodal Object Search for Service Robots via Reinforcement Learning</h2>
@@ -42,7 +42,7 @@ Publications
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; padding: 20px; border-bottom: 1px solid #ddd;">
   <div style="flex-shrink: 0; margin-right: 20px;">
-    <img src="images/IROS-Structure.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
+    <img src="images/IROS_Latest.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
   </div>
   <div style="flex: 1;">
     <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology</h2>
