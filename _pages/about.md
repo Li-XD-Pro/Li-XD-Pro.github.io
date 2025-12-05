@@ -15,11 +15,11 @@ My research focuses on the robot brain, specifically on how to improve the robot
 
 
 # News
-* Dec, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **TCSVT 2025**
-* Nov, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **EAAI 2025**
-* Jun, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **TIE 2025**
-* Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **IROS 2024**
-* Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **RAL 2024**
+* [2025.12] &nbsp;&nbsp; Our Paper has been accepted by **TCSVT 2025**
+* [2025.11] &nbsp;&nbsp; Our Paper has been accepted by **EAAI 2025**
+* [2025.06] &nbsp;&nbsp; Our Paper has been accepted by **TIE 2025**
+* [2024.06] &nbsp;&nbsp; Our Paper has been accepted by **IROS 2024**
+* [2024.06] &nbsp;&nbsp; Our Paper has been accepted by **RAL 2024**
 
 
 # Publications
@@ -83,7 +83,11 @@ My research focuses on the robot brain, specifically on how to improve the robot
   </div>
 </div>
 
-# Honors
-* National Scholarship, 2024 (Master)
-* The Second Prize in 21th China Post-Graduate Mathematical Contest in Modeling
-* National Scholarship, 2020 (Undergraduate)
+# Honors and Awards
+## Awards
+* [2024.12]The 21th China Post-Graduate Mathematical Contest in Modeling, Second Prize
+* [2022.08]The 15th Chinese Collegiate Computing Competition, Third Prize
+
+## Scholarship
+* [2024.12]National Scholarship, 2024 (Master)
+* [2020.12]National Scholarship, 2020 (Undergraduate)
