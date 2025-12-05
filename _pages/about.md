@@ -6,15 +6,13 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-------
+# About Me
 I am a PhD student in the Service Robotics Laboratory, [School of Control Science and Engineering](https://control.sdu.edu.cn/), Shandong University. My research interests include service robots, embodied intelligence, and task planning.
 
 My research focuses on the robot brain, specifically on how to improve the robot brain's ability to plan long-sequence tasks and provide embodied guidance for navigation and grasping skills, thereby truly endowing robots with intelligent capabilities.
 
 
-News
-------
+# News
 * Dec, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **TCSVT 2025**
 * Nov, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **EAAI 2025**
 * Jun, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **TIE 2025**
@@ -22,8 +20,7 @@ News
 * Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **RAL 2024**
 
 
-Publications
-------
+# Publications
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px; padding: 20px; border-bottom: 1px solid #ddd;">
   <div style="flex-shrink: 0; margin-right: 20px;">
     <img src="images/TCSVT2025.png" alt="Flow Diagram" style="max-width: 300px; border: 1px solid #ddd; border-radius: 8px;">
@@ -84,7 +81,6 @@ Publications
   </div>
 </div>
 
-Honors
-------
+# Honors
 * National Scholarship, 2024 (Master)
 * National Scholarship, 2020 (Undergraduate)
