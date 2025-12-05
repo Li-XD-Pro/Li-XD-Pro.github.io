@@ -15,13 +15,9 @@ My research focuses on the robot brain, specifically on how to improve the robot
 News
 ------
 * Dec, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **TCSVT 2025**
-
 * Nov, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **EAAI 2025**
-
 * Jun, 2025 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **TIE 2025**
-
 * Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **IROS 2024**
-
 * Jun, 2024 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our Paper has been accepted by **RAL 2024**
 
 
@@ -36,7 +32,6 @@ Publications
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian*, et al.</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IEEE Transactions on Circuits and Systems for Video Technology 2025</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/document/11080265" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/SS-VLA" style="color: #1a73e8;">Code</a></p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We proposes SS-VLA, a semantically supervised vision-language-action model combining LLMs' reasoning and VLAs' action generation.</p>
   </div>
 </div>
 
@@ -49,7 +44,6 @@ Publications
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian*, et al.</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">Engineering Applications of Artificial Intelligence, 2025</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/document/11080265" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/LL00qw/GRHP" style="color: #1a73e8;">Code</a></p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We present GRHP, a novel embodied long-horizon robotic planning framework with dual-graph (scene/task) and hierarchical (large/small models) structures.</p>
   </div>
 </div>
 
@@ -62,7 +56,6 @@ Publications
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian*, et al.</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IEEE Transactions on Industrial Electronics, 2025</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/document/11080265" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/Task-Guided-Object-Search" style="color: #1a73e8;">Code</a></p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We present a task-guided multimodal object search method for service robots, combining visual, semantic, and object relationship data to improve search efficiency.</p>
   </div>
 </div>
 
@@ -75,7 +68,6 @@ Publications
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian*, et al.</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IROS 2024</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/abstract/document/10802781" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/Household-Object-Organization" style="color: #1a73e8;">Code</a></p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.8;">We introduce a graph-based model combining GAT and BERT to predict relationships, improving robots' object organization using a Transformer framework.</p>
   </div>
 </div>
 
@@ -88,14 +80,12 @@ Publications
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 0.8; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian*, et al.</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;">IEEE Robotics and Automation Letters, 2024</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 0.8; color: #666;">  <a href="https://ieeexplore.ieee.org/document/10553231" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/FGTP" style="color: #1a73e8;">Code</a></p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.2;">We introduce the Fine-Grained Task Planning (FGTP) framework, which uses object ontology and LLMs to generate action plans and identify alternatives when tasks fail.</p>
   </div>
 </div>
 
 Honors
 ------
 * National Scholarship, 2024
-
 * National Scholarship, 2020
 
 
