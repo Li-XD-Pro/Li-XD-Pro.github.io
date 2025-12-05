@@ -1,12 +1,13 @@
 ---
 permalink: /
 layout: single
-title: "XiaodongLi"
+title: "Xiaodong Li"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 show_title: false
+header: false
 ---
 
 # About Me
