@@ -85,9 +85,9 @@ My research focuses on the robot brain, specifically on how to improve the robot
 
 # Honors and Awards
 ## Awards
-* [2024.12]The 21th China Post-Graduate Mathematical Contest in Modeling, Second Prize
-* [2022.08]The 15th Chinese Collegiate Computing Competition, Third Prize
+* [2024.12] &nbsp;&nbsp; The 21th China Post-Graduate Mathematical Contest in Modeling, Second Prize
+* [2022.08] &nbsp;&nbsp; The 15th Chinese Collegiate Computing Competition, Third Prize
 
 ## Scholarship
-* [2024.12]National Scholarship, 2024 (Master)
-* [2020.12]National Scholarship, 2020 (Undergraduate)
+* [2024.12] &nbsp;&nbsp; National Scholarship, 2024 (Master)
+* [2020.12] &nbsp;&nbsp; National Scholarship, 2020 (Undergraduate)
