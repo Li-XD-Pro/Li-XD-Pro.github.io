@@ -33,7 +33,7 @@ My research focuses on the robot brain, specifically on how to improve the robot
     <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Semantically Guided Task Planning: Supervised Vision Language Action Model by Large Language Models</h2>
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian*, et al.</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IEEE Transactions on Circuits and Systems for Video Technology 2025</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/document/11080265" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/SS-VLA" style="color: #1a73e8;">Code</a></p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/document/11296887" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/SS-VLA" style="color: #1a73e8;">Code</a></p>
   </div>
 </div>
 
