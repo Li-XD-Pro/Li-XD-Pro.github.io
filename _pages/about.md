@@ -13,7 +13,7 @@ redirect_from:
 # About Me
 I am a PhD student in the Service Robotics Laboratory, [School of Control Science and Engineering](https://control.sdu.edu.cn/), Shandong University, advised by [Prof. Guohui Tian](https://faculty.sdu.edu.cn/tianguohui/zh_CN/index.htm). My research interests include service robots, embodied intelligence, and task planning.
 
-My research focuses on the robot brain, specifically on how to improve the robot brain's ability to plan long-sequence tasks and provide embodied guidance for navigation and grasping skills, thereby truly endowing robots with intelligent capabilities.
+My research focuses on the robot brain, specifically on how to improve the robot brain's ability to plan long-horizon tasks and provide embodied guidance for navigation and grasping skills, thereby truly endowing robots with intelligent capabilities.
 
 
 # News
