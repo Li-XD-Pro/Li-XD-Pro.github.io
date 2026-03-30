@@ -1,41 +1,104 @@
----
----
+/* ========== 学术主页全局美化 ========== */
+.page__content {
+  max-width: 1000px !important;
+  line-height: 1.7 !important;
+  font-size: 16px !important;
+  color: #333 !important;
+}
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+/* 大标题样式 */
+.page__content h1 {
+  font-size: 26px !important;
+  font-weight: 700 !important;
+  color: #222 !important;
+  margin-top: 40px !important;
+  margin-bottom: 20px !important;
+  padding-bottom: 8px !important;
+  border-bottom: 2px solid #eee !important;
+}
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
-@import "variables";
-@import "mixins";
-@import "vendor/susy/susy";
+/* 二级标题 */
+.page__content h2 {
+  font-size: 20px !important;
+  font-weight: 600 !important;
+  color: #333 !important;
+  margin-top: 25px !important;
+  margin-bottom: 15px !important;
+}
 
-@import "reset";
-@import "base";
+/* News 样式 */
+.news-list {
+  background: #f9f9f9;
+  border-radius: 10px;
+  padding: 20px 25px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+.news-list li {
+  list-style: none !important;
+  margin: 10px 0 !important;
+  font-size: 16px !important;
+}
+.news-list li strong {
+  color: #d85151 !important;
+  font-weight: 600 !important;
+}
 
-@import "utilities";
-@import "animations";
-@import "tables";
-@import "buttons";
-@import "notices";
-@import "masthead";
-@import "navigation";
-@import "footer";
-@import "syntax";
+/* 论文卡片样式 */
+.publication-card {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin-bottom: 32px;
+  padding: 22px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.06);
+  transition: all 0.2s ease;
+}
+.publication-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+.publication-card img {
+  width: 260px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+}
+.publication-card .info {
+  flex: 1;
+}
+.publication-card .title {
+  font-size: 17px;
+  font-weight: 600;
+  color: #1a73e8;
+  margin: 0 0 8px 0;
+  line-height: 1.5;
+}
+.publication-card .author {
+  font-size: 16px;
+  color: #222;
+  margin: 0 0 6px 0;
+}
+.publication-card .venue {
+  font-size: 14px;
+  color: #666;
+  margin: 0 0 6px 0;
+}
+.publication-card .links a {
+  font-size: 14px;
+  color: #1a73e8;
+  margin-right: 12px;
+  text-decoration: none;
+}
 
-@import "forms";
-
-@import "page";
-@import "archive";
-@import "sidebar";
-
-@import "vendor/font-awesome/fontawesome";
-@import "vendor/font-awesome/solid";
-@import "vendor/font-awesome/brands";
-@import "vendor/magnific-popup/magnific-popup";
-@import "print";
+/* 荣誉奖励样式 */
+.award-list li {
+  list-style: none;
+  background: #fafafa;
+  padding: 12px 18px;
+  border-radius: 8px;
+  margin: 8px 0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+}
