@@ -71,7 +71,7 @@ My research focuses on the robot brain, specifically on how to improve the robot
   <div style="flex: 1;">
     <h2 style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.5; color: #1a73e8;">Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology</h2>
     <p style="margin: 0 0 10px 0; font-size: 16px; line-height: 1.1; font-weight: bold; color: #333;">Xiaodong Li, Guohui Tian*, et al.</p>
-    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">IROS 2024</p>
+    <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;">2024 IEEE/RSJ International Conference on Intelligent Robots and Systems</p>
     <p style="margin: 0 0 10px 0; font-size: 14px; line-height: 1.1; color: #666;"> <a href="https://ieeexplore.ieee.org/abstract/document/10802781" style="color: #1a73e8;">Paper</a> / <a href="https://github.com/Li-XD-Pro/Household-Object-Organization" style="color: #1a73e8;">Code</a></p>
   </div>
 </div>
