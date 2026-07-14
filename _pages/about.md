@@ -39,23 +39,23 @@ redirect_from:
 <div class="timeline">
   <div class="timeline-item timeline-item--highlight">
     <div class="timeline-date">2025.12</div>
-    <div class="timeline-card">Our paper has been accepted by <strong>TCSVT 2025</strong>.</div>
+    <div class="timeline-card">Our paper has been accepted by <strong>TCSVT 2026</strong></div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2025.11</div>
-    <div class="timeline-card">Our paper has been accepted by <strong>EAAI 2025</strong>.</div>
+    <div class="timeline-card">Our paper has been accepted by <strong>EAAI 2026</strong></div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2025.06</div>
-    <div class="timeline-card">Our paper has been accepted by <strong>TIE 2025</strong>.</div>
+    <div class="timeline-card">Our paper has been accepted by <strong>TIE 2025</strong></div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2024.06</div>
-    <div class="timeline-card">Our paper has been accepted by <strong>IROS 2024</strong>.</div>
+    <div class="timeline-card">Our paper has been accepted by <strong>IROS 2024</strong></div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2024.06</div>
-    <div class="timeline-card">Our paper has been accepted by <strong>RAL 2024</strong>.</div>
+    <div class="timeline-card">Our paper has been accepted by <strong>RAL 2024</strong></div>
   </div>
 </div>
 
@@ -73,7 +73,7 @@ redirect_from:
     <div class="pub-card__body">
       <div class="pub-card__meta">
         <span class="pub-badge">Accepted</span>
-        <span class="pub-year">2025</span>
+        <span class="pub-year">2026</span>
       </div>
       <h3 class="pub-card__title">Semantically Guided Task Planning: Supervised Vision Language Action Model by Large Language Models</h3>
       <p class="pub-card__authors">Xiaodong Li, Guohui Tian*, et al.</p>
@@ -92,7 +92,7 @@ redirect_from:
     <div class="pub-card__body">
       <div class="pub-card__meta">
         <span class="pub-badge">Accepted</span>
-        <span class="pub-year">2025</span>
+        <span class="pub-year">2026</span>
       </div>
       <h3 class="pub-card__title">GRHP: Graph-Fused Hierarchical Planning for Embodied Long-Horizon Robotic Task</h3>
       <p class="pub-card__authors">Xiaodong Li, Guohui Tian*, et al.</p>
