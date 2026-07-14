@@ -23,11 +23,6 @@ redirect_from:
       I am especially interested in building the robot brain: improving planning, navigation, and grasping
       capabilities so robots can provide more intelligent embodied assistance.
     </p>
-    <div class="home-actions">
-      <a class="home-btn home-btn--primary" href="#publications">View Publications</a>
-      <a class="home-btn" href="#news">Latest News</a>
-      <a class="home-btn" href="/cv/">CV</a>
-    </div>
     <div class="home-tags" aria-label="Research interests">
       <span class="home-tag">Service Robotics</span>
       <span class="home-tag">Embodied Intelligence</span>
