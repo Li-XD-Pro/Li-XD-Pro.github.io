@@ -12,7 +12,6 @@ redirect_from:
 
 <div class="home-hero">
   <div class="home-hero__intro">
-    <div class="home-kicker">Service Robotics · Embodied Intelligence · Task Planning</div>
     <h1 class="home-title">About Me</h1>
     <p class="home-summary">
       I am a PhD student in the Service Robotics Laboratory at the School of Control Science and Engineering,
@@ -27,7 +26,6 @@ redirect_from:
       <span class="home-tag">Service Robotics</span>
       <span class="home-tag">Embodied Intelligence</span>
       <span class="home-tag">Task Planning</span>
-      <span class="home-tag">Vision-Language-Action</span>
     </div>
   </div>
 </div>
