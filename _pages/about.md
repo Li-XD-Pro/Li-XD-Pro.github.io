@@ -122,200 +122,65 @@ redirect_from:
     Journals
   </h3>
 
-  <div class="pub-list">
+  <ul class="publication-text-list">
 
-    <article class="pub-card">
+    <li>
+      <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
+      “<a class="publication-title-link"
+          href="https://ieeexplore.ieee.org/document/11296887">
+        Semantically Guided Task Planning: Supervised Vision Language Action Model by Large Language Models
+      </a>,”
+      <em>IEEE Transactions on Circuits and Systems for Video Technology</em>,
+      2026.
+      <a class="publication-extra"
+         href="https://ieeexplore.ieee.org/document/11296887">[Paper]</a>
+      <a class="publication-extra"
+         href="https://github.com/Li-XD-Pro/SS-VLA">[Code]</a>
+    </li>
 
-      <div class="pub-card__media">
-        <img
-          src="images/TCSVT2025.png"
-          alt="Semantically Guided Task Planning paper cover"
-          loading="lazy">
-      </div>
+    <li>
+      <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
+      “<a class="publication-title-link"
+          href="https://www.sciencedirect.com/science/article/pii/S095219762503444X?via%3Dihub">
+        GRHP: Graph-Fused Hierarchical Planning for Embodied Long-Horizon Robotic Task
+      </a>,”
+      <em>Engineering Applications of Artificial Intelligence</em>,
+      2026.
+      <a class="publication-extra"
+         href="https://www.sciencedirect.com/science/article/pii/S095219762503444X?via%3Dihub">[Paper]</a>
+      <a class="publication-extra"
+         href="https://github.com/Li-XD-Pro/GRHP">[Code]</a>
+    </li>
 
-      <div class="pub-card__body">
+    <li>
+      <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
+      “<a class="publication-title-link"
+          href="https://ieeexplore.ieee.org/document/11080265">
+        Task Guided Multimodal Object Search for Service Robots via Reinforcement Learning
+      </a>,”
+      <em>IEEE Transactions on Industrial Electronics</em>,
+      2025.
+      <a class="publication-extra"
+         href="https://ieeexplore.ieee.org/document/11080265">[Paper]</a>
+      <a class="publication-extra"
+         href="https://github.com/Li-XD-Pro/Task-Guided-Object-Search">[Code]</a>
+    </li>
 
-        <div class="pub-card__meta">
-          <span class="pub-badge">Accepted</span>
-          <span class="pub-year">2026</span>
-        </div>
+    <li>
+      <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
+      “<a class="publication-title-link"
+          href="https://ieeexplore.ieee.org/document/10553231">
+        Fine-Grained Task Planning for Service Robots Based on Object Ontology Knowledge via Large Language Models
+      </a>,”
+      <em>IEEE Robotics and Automation Letters</em>,
+      2024.
+      <a class="publication-extra"
+         href="https://ieeexplore.ieee.org/document/10553231">[Paper]</a>
+      <a class="publication-extra"
+         href="https://github.com/Li-XD-Pro/FGTP">[Code]</a>
+    </li>
 
-        <h3 class="pub-card__title">
-          Semantically Guided Task Planning:
-          Supervised Vision Language Action Model by Large Language Models
-        </h3>
-
-        <p class="pub-card__authors">
-          Xiaodong Li, Guohui Tian*, et al.
-        </p>
-
-        <p class="pub-card__venue">
-          IEEE Transactions on Circuits and Systems for Video Technology
-        </p>
-
-        <div class="pub-card__links">
-
-          <a class="pub-link"
-             href="https://ieeexplore.ieee.org/document/11296887">
-             Paper
-          </a>
-
-          <a class="pub-link"
-             href="https://github.com/Li-XD-Pro/SS-VLA">
-             Code
-          </a>
-
-        </div>
-
-      </div>
-
-    </article>
-
-
-    <article class="pub-card">
-
-      <div class="pub-card__media">
-        <img
-          src="images/EAAI2025.png"
-          alt="GRHP paper cover"
-          loading="lazy">
-      </div>
-
-      <div class="pub-card__body">
-
-        <div class="pub-card__meta">
-          <span class="pub-badge">Accepted</span>
-          <span class="pub-year">2026</span>
-        </div>
-
-        <h3 class="pub-card__title">
-          GRHP: Graph-Fused Hierarchical Planning
-          for Embodied Long-Horizon Robotic Task
-        </h3>
-
-        <p class="pub-card__authors">
-          Xiaodong Li, Guohui Tian*, et al.
-        </p>
-
-        <p class="pub-card__venue">
-          Engineering Applications of Artificial Intelligence
-        </p>
-
-        <div class="pub-card__links">
-
-          <a class="pub-link"
-             href="https://www.sciencedirect.com/science/article/pii/S095219762503444X?via%3Dihub">
-             Paper
-          </a>
-
-          <a class="pub-link"
-             href="https://github.com/Li-XD-Pro/GRHP">
-             Code
-          </a>
-
-        </div>
-
-      </div>
-
-    </article>
-
-
-    <article class="pub-card">
-
-      <div class="pub-card__media">
-        <img
-          src="images/TIE2025.png"
-          alt="Task Guided Multimodal Object Search paper cover"
-          loading="lazy">
-      </div>
-
-      <div class="pub-card__body">
-
-        <div class="pub-card__meta">
-          <span class="pub-badge">Accepted</span>
-          <span class="pub-year">2025</span>
-        </div>
-
-        <h3 class="pub-card__title">
-          Task Guided Multimodal Object Search
-          for Service Robots via Reinforcement Learning
-        </h3>
-
-        <p class="pub-card__authors">
-          Xiaodong Li, Guohui Tian*, et al.
-        </p>
-
-        <p class="pub-card__venue">
-          IEEE Transactions on Industrial Electronics
-        </p>
-
-        <div class="pub-card__links">
-
-          <a class="pub-link"
-             href="https://ieeexplore.ieee.org/document/11080265">
-             Paper
-          </a>
-
-          <a class="pub-link"
-             href="https://github.com/Li-XD-Pro/Task-Guided-Object-Search">
-             Code
-          </a>
-
-        </div>
-
-      </div>
-
-    </article>
-
-
-    <article class="pub-card">
-
-      <div class="pub-card__media">
-        <img
-          src="images/RAL2024.png"
-          alt="Fine-Grained Task Planning paper cover"
-          loading="lazy">
-      </div>
-
-      <div class="pub-card__body">
-
-        <div class="pub-card__meta">
-          <span class="pub-badge">Journal</span>
-          <span class="pub-year">2024</span>
-        </div>
-
-        <h3 class="pub-card__title">
-          Fine-Grained Task Planning for Service Robots
-          Based on Object Ontology Knowledge via Large Language Models
-        </h3>
-
-        <p class="pub-card__authors">
-          Xiaodong Li, Guohui Tian*, et al.
-        </p>
-
-        <p class="pub-card__venue">
-          IEEE Robotics and Automation Letters
-        </p>
-
-        <div class="pub-card__links">
-
-          <a class="pub-link"
-             href="https://ieeexplore.ieee.org/document/10553231">
-             Paper
-          </a>
-
-          <a class="pub-link"
-             href="https://github.com/Li-XD-Pro/FGTP">
-             Code
-          </a>
-
-        </div>
-
-      </div>
-
-    </article>
-
-  </div>
+  </ul>
 
 </div>
 
@@ -326,59 +191,23 @@ redirect_from:
     Conferences
   </h3>
 
-  <div class="pub-list">
+  <ul class="publication-text-list">
 
-    <article class="pub-card">
+    <li>
+      <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
+      “<a class="publication-title-link"
+          href="https://ieeexplore.ieee.org/abstract/document/10802781">
+        Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology
+      </a>,”
+      <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>,
+      2024.
+      <a class="publication-extra"
+         href="https://ieeexplore.ieee.org/abstract/document/10802781">[Paper]</a>
+      <a class="publication-extra"
+         href="https://github.com/Li-XD-Pro/Household-Object-Organization">[Code]</a>
+    </li>
 
-      <div class="pub-card__media">
-        <img
-          src="images/IROS2024.png"
-          alt="Transformer-Based Relationship Inference paper cover"
-          loading="lazy">
-      </div>
-
-      <div class="pub-card__body">
-
-        <div class="pub-card__meta">
-          <span class="pub-badge pub-badge--conference">
-            Conference
-          </span>
-          <span class="pub-year">2024</span>
-        </div>
-
-        <h3 class="pub-card__title">
-          Transformer-Based Relationship Inference Model
-          for Household Object Organization by Integrating Graph Topology and Ontology
-        </h3>
-
-        <p class="pub-card__authors">
-          Xiaodong Li, Guohui Tian*, et al.
-        </p>
-
-        <p class="pub-card__venue">
-          2024 IEEE/RSJ International Conference
-          on Intelligent Robots and Systems
-        </p>
-
-        <div class="pub-card__links">
-
-          <a class="pub-link"
-             href="https://ieeexplore.ieee.org/abstract/document/10802781">
-             Paper
-          </a>
-
-          <a class="pub-link"
-             href="https://github.com/Li-XD-Pro/Household-Object-Organization">
-             Code
-          </a>
-
-        </div>
-
-      </div>
-
-    </article>
-
-  </div>
+  </ul>
 
 </div>
 
