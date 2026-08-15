@@ -52,10 +52,6 @@ redirect_from:
     <span>News</span>
   </h2>
 
-  <p class="section-subtitle">
-    Recent updates and publication milestones
-  </p>
-
 </div>
 
 <div class="timeline">
@@ -108,10 +104,6 @@ redirect_from:
     </span>
     <span>Publications</span>
   </h2>
-
-  <p class="section-subtitle">
-    Selected papers with code and links
-  </p>
 
 </div>
 
@@ -223,10 +215,6 @@ redirect_from:
     <span>Honors and Awards</span>
   </h2>
 
-  <p class="section-subtitle">
-    Scholarships and competition awards
-  </p>
-
 </div>
 
 
@@ -286,40 +274,30 @@ redirect_from:
 </div>
 
 
-<span class='anchor' id='reviewer'></span>
+<span class='anchor' id='education'></span>
 
 <div class="section-heading">
 
   <h2 class="section-title title-with-icon">
     <span class="section-icon" aria-hidden="true">
-      <i class="fas fa-check-circle"></i>
+      <i class="fas fa-graduation-cap"></i>
     </span>
-    <span>Reviewer</span>
+    <span>Education</span>
   </h2>
-
-  <p class="section-subtitle">
-    Academic reviewing service
-  </p>
 
 </div>
 
 
-<ul class="reviewer-list">
+<ul class="honor-list honor-list--simple">
 
   <li>
-    IEEE Transactions on Neural Networks and Learning Systems
+    <span class="honor-date">2023.09 - Present,</span>
+    <span>Ph.D., School of Control Science and Engineering, Shandong University, Jinan, China.</span>
   </li>
 
   <li>
-    IEEE Transactions on Industrial Electronics
-  </li>
-
-  <li>
-    IEEE Transactions on Multimedia
-  </li>
-
-  <li>
-    IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+    <span class="honor-date">2019.09 - 2023.06,</span>
+    <span>Undergraduate, School of Control Science and Engineering, China University of Petroleum (East China), Qingdao, China.</span>
   </li>
 
 </ul>
