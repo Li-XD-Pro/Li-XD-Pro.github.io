@@ -685,10 +685,20 @@
     grid-template-columns: 1fr;
   }
 }
+
 /* ==========================================================================
-   Compact homepage layout
-   Reduce vertical space while keeping all existing content
+   Compact Academic Homepage
+   Keep all existing content, reduce vertical occupation
    ========================================================================== */
+
+
+/* --------------------------------------------------------------------------
+   Overall page
+   -------------------------------------------------------------------------- */
+
+#main {
+  margin-top: 1.4em;
+}
 
 
 /* --------------------------------------------------------------------------
@@ -696,27 +706,71 @@
    -------------------------------------------------------------------------- */
 
 .home-hero {
-  margin-bottom: 1.5rem;
-  padding: 1.3rem 1.5rem;
+  margin: 0 0 0.9rem;
+  padding: 0.8rem 1rem;
+
+  border-radius: 0.8rem;
+
+  box-shadow:
+    0 3px 12px rgba(0, 0, 0, 0.025);
 }
+
+
+/*
+ * Important:
+ * Original value is clamp(2rem, 4vw, 3rem),
+ * which is much larger than the reference academic homepage.
+ */
+.home-title {
+  font-size: 1.38rem;
+  line-height: 1.22;
+}
+
+
+/*
+ * News / Publications / Honors / Reviewer heading size
+ */
+.section-title {
+  font-size: 1.18rem;
+  line-height: 1.22;
+}
+
 
 .home-title,
 .section-title {
-  margin-bottom: 0.35rem;
+  margin-top: 0;
+  margin-bottom: 0.22rem;
 }
+
+
+/*
+ * Minimal Mistakes gives all h2 elements
+ * padding-bottom: 0.5em.
+ * Reduce it specifically for homepage section titles.
+ */
+.page__content h2.section-title {
+  padding-bottom: 0.22rem;
+}
+
 
 .home-summary {
-  margin-bottom: 0.6rem;
-  line-height: 1.58;
+  margin: 0 0 0.35rem;
+
+  font-size: 0.94rem;
+  line-height: 1.43;
 }
+
 
 .home-tags {
-  gap: 0.35rem;
-  margin-top: 0.2rem;
+  gap: 0.25rem;
+  margin-top: 0.25rem;
 }
 
+
 .home-tag {
-  padding: 0.25rem 0.6rem;
+  padding: 0.15rem 0.48rem;
+
+  font-size: 0.75rem;
 }
 
 
@@ -725,11 +779,15 @@
    -------------------------------------------------------------------------- */
 
 .section-heading {
-  margin: 1.55rem 0 0.65rem;
+  margin: 0.9rem 0 0.32rem;
 }
 
+
 .section-subtitle {
-  line-height: 1.35;
+  margin: 0;
+
+  font-size: 0.78rem;
+  line-height: 1.25;
 }
 
 
@@ -738,99 +796,212 @@
    -------------------------------------------------------------------------- */
 
 .timeline {
-  margin: 0.6rem 0 1.35rem;
-  padding-left: 1.1rem;
+  margin: 0.3rem 0 0.85rem;
+  padding-left: 0.9rem;
 }
 
+
 .timeline-item {
-  margin-bottom: 0.6rem;
-  padding-left: 0.85rem;
+  margin-bottom: 0.3rem;
+  padding-left: 0.65rem;
 }
+
 
 .timeline-item:last-child {
   margin-bottom: 0;
 }
 
-.timeline-date {
-  margin-bottom: 0.18rem;
-  line-height: 1.25;
+
+.timeline-item::before {
+  left: -0.46rem;
+  top: 0.40rem;
+
+  width: 0.50rem;
+  height: 0.50rem;
+
+  box-shadow:
+    0 0 0 3px rgba($primary-color, 0.10);
 }
 
+
+.timeline-date {
+  margin-bottom: 0.06rem;
+
+  font-size: 0.78rem;
+  line-height: 1.15;
+}
+
+
 .timeline-card {
-  padding: 0.6rem 0.85rem;
-  border-radius: 0.8rem;
-  line-height: 1.4;
+  padding: 0.32rem 0.6rem;
+
+  border-radius: 0.55rem;
+
+  font-size: 0.88rem;
+  line-height: 1.30;
+
+  box-shadow:
+    0 2px 7px rgba(0, 0, 0, 0.02);
 }
 
 
 /* --------------------------------------------------------------------------
-   Publication groups
+   Journals / Conferences
+   Scholarships / Competition Awards
    -------------------------------------------------------------------------- */
 
 .content-group {
-  margin-bottom: 1.35rem;
+  margin-bottom: 0.75rem;
 }
+
 
 .content-group + .content-group {
-  margin-top: 1.35rem;
+  margin-top: 0.8rem;
 }
 
+
 .content-group-title {
-  margin: 0.7rem 0 0.65rem;
-  font-size: 1.05rem;
-  line-height: 1.3;
+  margin: 0.3rem 0 0.38rem;
+
+  padding-left: 0.5rem;
+
+  border-left-width: 2px;
+
+  font-size: 0.96rem;
+  line-height: 1.2;
 }
 
 
 /* --------------------------------------------------------------------------
-   Publication cards
+   Publications
    -------------------------------------------------------------------------- */
 
 .pub-list {
-  gap: 0.75rem;
+  gap: 0.4rem;
 }
 
+
+/*
+ * The original cards are approximately 180 px high mainly because
+ * of the publication image.
+ *
+ * We keep every image and every piece of information,
+ * but use a compact academic-row layout.
+ */
 .pub-card {
-  grid-template-columns: minmax(155px, 220px) 1fr;
-  gap: 0.8rem;
-  padding: 0.7rem 0.8rem;
-  border-radius: 1rem;
+  grid-template-columns:
+    minmax(105px, 135px)
+    minmax(0, 1fr);
+
+  gap: 0.55rem;
+
+  padding: 0.4rem 0.5rem;
+
+  border-radius: 0.65rem;
+
+  box-shadow:
+    0 3px 10px rgba(0, 0, 0, 0.025);
 }
+
+
+/* Publication image */
+
+.pub-card__media {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  overflow: hidden;
+
+  border-radius: 0.5rem;
+}
+
 
 .pub-card__media img {
-  max-height: 145px;
-  border-radius: 0.8rem;
+  width: 100%;
+  height: 100%;
+
+  max-height: 92px;
+
+  object-fit: cover;
+
+  border-radius: 0.5rem;
 }
+
+
+/* Publication text */
 
 .pub-card__body {
-  gap: 0.3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  gap: 0.12rem;
 }
 
-.pub-card__title {
-  font-size: 1rem;
-  line-height: 1.35;
-}
-
-.pub-card__authors,
-.pub-card__venue {
-  font-size: 0.92rem;
-  line-height: 1.35;
-}
 
 .pub-card__meta,
 .pub-card__links {
-  gap: 0.35rem;
+  gap: 0.22rem;
 }
+
+
+.pub-card__title {
+  margin: 0;
+
+  font-size: 0.90rem;
+  line-height: 1.23;
+}
+
+
+.pub-card__authors,
+.pub-card__venue {
+  margin: 0;
+
+  font-size: 0.81rem;
+  line-height: 1.22;
+}
+
+
+.pub-card__authors {
+  font-weight: 600;
+}
+
+
+/* Accepted / Journal / Conference / Year */
 
 .pub-badge,
-.pub-year,
-.honor-date {
-  padding: 0.18rem 0.5rem;
+.pub-year {
+  padding: 0.08rem 0.35rem;
+
+  font-size: 0.68rem;
+  line-height: 1.2;
 }
 
+
+/* Paper / Code */
+
+.pub-card__links {
+  margin-top: 0.03rem;
+}
+
+
 .pub-link {
-  padding: 0.3rem 0.65rem;
-  font-size: 0.9rem;
+  padding: 0.13rem 0.42rem;
+
+  font-size: 0.74rem;
+  line-height: 1.2;
+}
+
+
+/*
+ * Very subtle hover only.
+ */
+.pub-card:hover {
+  transform: none;
+
+  box-shadow:
+    0 4px 12px rgba(0, 0, 0, 0.035);
 }
 
 
@@ -839,33 +1010,49 @@
    -------------------------------------------------------------------------- */
 
 .honor-groups {
-  gap: 1rem;
-  margin-bottom: 1.4rem;
+  gap: 0.65rem;
+
+  margin-bottom: 0.85rem;
 }
+
 
 .honor-group {
   margin: 0;
 }
 
-.honor-list {
-  margin-bottom: 0;
+
+.honor-list,
+.honor-list--simple {
+  margin: 0;
 }
 
-.honor-list li {
-  gap: 0.5rem;
-  padding: 0.5rem 0;
-  line-height: 1.4;
-}
 
+.honor-list li,
 .honor-list--simple li {
-  padding: 0.5rem 0;
+  gap: 0.38rem;
+
+  padding: 0.28rem 0;
+
+  font-size: 0.86rem;
+  line-height: 1.28;
+}
+
+
+.honor-date {
+  padding: 0.07rem 0.35rem;
+
+  font-size: 0.70rem;
 }
 
 
 /* --------------------------------------------------------------------------
-   Do NOT compress Reviewer
-   Reviewer intentionally keeps its current spacing
+   Reviewer
    -------------------------------------------------------------------------- */
+
+/*
+ * Reviewer already has the information density you want.
+ * Do not compress its layout here.
+ */
 
 
 /* --------------------------------------------------------------------------
@@ -874,44 +1061,107 @@
 
 @media (max-width: 768px) {
 
-  .home-hero {
-    margin-bottom: 1.25rem;
-    padding: 1rem 1.1rem;
+  #main {
+    margin-top: 1em;
   }
+
+
+  .home-hero {
+    margin-bottom: 0.8rem;
+
+    padding: 0.7rem 0.8rem;
+  }
+
+
+  .home-title {
+    font-size: 1.28rem;
+  }
+
+
+  .section-title {
+    font-size: 1.12rem;
+  }
+
 
   .home-summary {
-    margin-bottom: 0.55rem;
-    line-height: 1.55;
+    font-size: 0.91rem;
+    line-height: 1.4;
   }
+
 
   .section-heading {
-    margin: 1.35rem 0 0.6rem;
+    margin-top: 0.8rem;
   }
+
 
   .timeline {
-    margin-bottom: 1.2rem;
+    margin-bottom: 0.75rem;
   }
 
-  .timeline-card {
-    padding: 0.6rem 0.75rem;
+
+  /*
+   * Keep publication image and text side-by-side on tablets
+   * and most mobile screens to avoid making each paper too tall.
+   */
+  .pub-card {
+    grid-template-columns:
+      90px
+      minmax(0, 1fr);
+
+    gap: 0.45rem;
+
+    padding: 0.38rem;
   }
+
+
+  .pub-card__media img {
+    max-height: 86px;
+  }
+
+
+  .pub-card__body {
+    gap: 0.1rem;
+  }
+
+
+  .pub-card__title {
+    font-size: 0.86rem;
+  }
+
+
+  .pub-card__authors,
+  .pub-card__venue {
+    font-size: 0.78rem;
+  }
+
+
+  .content-group {
+    margin-bottom: 0.7rem;
+  }
+
+
+  .honor-list li,
+  .honor-list--simple li {
+    padding: 0.25rem 0;
+  }
+
+}
+
+
+/*
+ * Very narrow phones:
+ * switch publications back to one column.
+ */
+@media (max-width: 480px) {
 
   .pub-card {
     grid-template-columns: 1fr;
-    gap: 0.65rem;
-    padding: 0.7rem;
   }
+
 
   .pub-card__media img {
-    max-height: 160px;
-  }
-
-  .content-group {
-    margin-bottom: 1.2rem;
-  }
-
-  .honor-list li {
-    padding: 0.5rem 0;
+    width: 100%;
+    max-height: 115px;
   }
 
 }
