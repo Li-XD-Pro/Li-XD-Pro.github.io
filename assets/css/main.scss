@@ -2,15 +2,12 @@
 ---
 
 /*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
+ * Minimal Mistakes / Academic Pages stylesheet entry.
+ * Keep the original import order, then load our homepage overrides after
+ * the theme's page/sidebar styles so the custom rules take precedence.
+ */
 
-@import "vendor/breakpoint/breakpoint"; // media query mixins
+@import "vendor/breakpoint/breakpoint";
 @import "variables";
 @import "mixins";
 @import "vendor/susy/susy";
@@ -29,13 +26,16 @@
 @import "syntax";
 
 @import "forms";
-
 @import "page";
 @import "archive";
 @import "sidebar";
+
+/* Homepage redesign: intentionally loaded after the theme layout styles. */
+@import "custom";
 
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
+
 @import "print";
