@@ -685,3 +685,233 @@
     grid-template-columns: 1fr;
   }
 }
+/* ==========================================================================
+   Compact homepage layout
+   Reduce vertical space while keeping all existing content
+   ========================================================================== */
+
+
+/* --------------------------------------------------------------------------
+   About Me
+   -------------------------------------------------------------------------- */
+
+.home-hero {
+  margin-bottom: 1.5rem;
+  padding: 1.3rem 1.5rem;
+}
+
+.home-title,
+.section-title {
+  margin-bottom: 0.35rem;
+}
+
+.home-summary {
+  margin-bottom: 0.6rem;
+  line-height: 1.58;
+}
+
+.home-tags {
+  gap: 0.35rem;
+  margin-top: 0.2rem;
+}
+
+.home-tag {
+  padding: 0.25rem 0.6rem;
+}
+
+
+/* --------------------------------------------------------------------------
+   Main section headings
+   -------------------------------------------------------------------------- */
+
+.section-heading {
+  margin: 1.55rem 0 0.65rem;
+}
+
+.section-subtitle {
+  line-height: 1.35;
+}
+
+
+/* --------------------------------------------------------------------------
+   News
+   -------------------------------------------------------------------------- */
+
+.timeline {
+  margin: 0.6rem 0 1.35rem;
+  padding-left: 1.1rem;
+}
+
+.timeline-item {
+  margin-bottom: 0.6rem;
+  padding-left: 0.85rem;
+}
+
+.timeline-item:last-child {
+  margin-bottom: 0;
+}
+
+.timeline-date {
+  margin-bottom: 0.18rem;
+  line-height: 1.25;
+}
+
+.timeline-card {
+  padding: 0.6rem 0.85rem;
+  border-radius: 0.8rem;
+  line-height: 1.4;
+}
+
+
+/* --------------------------------------------------------------------------
+   Publication groups
+   -------------------------------------------------------------------------- */
+
+.content-group {
+  margin-bottom: 1.35rem;
+}
+
+.content-group + .content-group {
+  margin-top: 1.35rem;
+}
+
+.content-group-title {
+  margin: 0.7rem 0 0.65rem;
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+
+
+/* --------------------------------------------------------------------------
+   Publication cards
+   -------------------------------------------------------------------------- */
+
+.pub-list {
+  gap: 0.75rem;
+}
+
+.pub-card {
+  grid-template-columns: minmax(155px, 220px) 1fr;
+  gap: 0.8rem;
+  padding: 0.7rem 0.8rem;
+  border-radius: 1rem;
+}
+
+.pub-card__media img {
+  max-height: 145px;
+  border-radius: 0.8rem;
+}
+
+.pub-card__body {
+  gap: 0.3rem;
+}
+
+.pub-card__title {
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.pub-card__authors,
+.pub-card__venue {
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+
+.pub-card__meta,
+.pub-card__links {
+  gap: 0.35rem;
+}
+
+.pub-badge,
+.pub-year,
+.honor-date {
+  padding: 0.18rem 0.5rem;
+}
+
+.pub-link {
+  padding: 0.3rem 0.65rem;
+  font-size: 0.9rem;
+}
+
+
+/* --------------------------------------------------------------------------
+   Honors and Awards
+   -------------------------------------------------------------------------- */
+
+.honor-groups {
+  gap: 1rem;
+  margin-bottom: 1.4rem;
+}
+
+.honor-group {
+  margin: 0;
+}
+
+.honor-list {
+  margin-bottom: 0;
+}
+
+.honor-list li {
+  gap: 0.5rem;
+  padding: 0.5rem 0;
+  line-height: 1.4;
+}
+
+.honor-list--simple li {
+  padding: 0.5rem 0;
+}
+
+
+/* --------------------------------------------------------------------------
+   Do NOT compress Reviewer
+   Reviewer intentionally keeps its current spacing
+   -------------------------------------------------------------------------- */
+
+
+/* --------------------------------------------------------------------------
+   Mobile
+   -------------------------------------------------------------------------- */
+
+@media (max-width: 768px) {
+
+  .home-hero {
+    margin-bottom: 1.25rem;
+    padding: 1rem 1.1rem;
+  }
+
+  .home-summary {
+    margin-bottom: 0.55rem;
+    line-height: 1.55;
+  }
+
+  .section-heading {
+    margin: 1.35rem 0 0.6rem;
+  }
+
+  .timeline {
+    margin-bottom: 1.2rem;
+  }
+
+  .timeline-card {
+    padding: 0.6rem 0.75rem;
+  }
+
+  .pub-card {
+    grid-template-columns: 1fr;
+    gap: 0.65rem;
+    padding: 0.7rem;
+  }
+
+  .pub-card__media img {
+    max-height: 160px;
+  }
+
+  .content-group {
+    margin-bottom: 1.2rem;
+  }
+
+  .honor-list li {
+    padding: 0.5rem 0;
+  }
+
+}
