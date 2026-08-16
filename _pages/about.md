@@ -118,10 +118,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-      “<a class="publication-title-link"
-          href="https://ieeexplore.ieee.org/document/11296887">
-        Semantically Guided Task Planning: Supervised Vision Language Action Model by Large Language Models
-      </a>,”
+        Semantically Guided Task Planning: Supervised Vision Language Action Model by Large Language Models,
       <em>IEEE Transactions on Circuits and Systems for Video Technology</em>,
       2026.
       <a class="publication-extra"
