@@ -129,10 +129,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-      “<a class="publication-title-link"
-          href="https://www.sciencedirect.com/science/article/pii/S095219762503444X?via%3Dihub">
-        GRHP: Graph-Fused Hierarchical Planning for Embodied Long-Horizon Robotic Task
-      </a>,”
+        GRHP: Graph-Fused Hierarchical Planning for Embodied Long-Horizon Robotic Task,
       <em>Engineering Applications of Artificial Intelligence</em>,
       2026.
       <a class="publication-extra"
@@ -143,10 +140,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-      “<a class="publication-title-link"
-          href="https://ieeexplore.ieee.org/document/11080265">
-        Task Guided Multimodal Object Search for Service Robots via Reinforcement Learning
-      </a>,”
+        Task Guided Multimodal Object Search for Service Robots via Reinforcement Learning,
       <em>IEEE Transactions on Industrial Electronics</em>,
       2025.
       <a class="publication-extra"
@@ -157,10 +151,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-      “<a class="publication-title-link"
-          href="https://ieeexplore.ieee.org/document/10553231">
-        Fine-Grained Task Planning for Service Robots Based on Object Ontology Knowledge via Large Language Models
-      </a>,”
+        Fine-Grained Task Planning for Service Robots Based on Object Ontology Knowledge via Large Language Models,
       <em>IEEE Robotics and Automation Letters</em>,
       2024.
       <a class="publication-extra"
@@ -184,10 +175,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-      “<a class="publication-title-link"
-          href="https://ieeexplore.ieee.org/abstract/document/10802781">
-        Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology
-      </a>,”
+        Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology,
       <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>,
       2024.
       <a class="publication-extra"
