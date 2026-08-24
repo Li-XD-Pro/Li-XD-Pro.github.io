@@ -20,7 +20,7 @@ redirect_from:
       <span>About Me</span>
     </h1>
     <p class="home-summary">
-      I am a PhD student in the Service Robotics Laboratory at the School of Control Science and Engineering,
+      I am a Ph.D student in the Service Robotics Laboratory at the School of Control Science and Engineering,
       Shandong University, advised by Prof. Guohui Tian. My research focuses on service robots, embodied
       intelligence, and long-horizon task planning.
     </p>
