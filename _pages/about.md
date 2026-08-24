@@ -307,17 +307,14 @@ redirect_from:
   <ul class="publication-text-list">
 
     <li>
-      Reviewer,
       <strong>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</strong>
     </li>
 
     <li>
-      Reviewer,
       <strong>IEEE Transactions on Industrial Electronics (TIE)</strong>
     </li>
 
     <li>
-      Reviewer,
       <strong>IEEE Transactions on Multimedia (TMM)</strong>
     </li>
 
@@ -335,7 +332,6 @@ redirect_from:
   <ul class="publication-text-list">
 
     <li>
-      Reviewer,
       <strong>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>
     </li>
 
