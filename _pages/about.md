@@ -307,15 +307,15 @@ redirect_from:
   <ul class="publication-text-list">
 
     <li>
-      <strong>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</strong>
+      IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
     </li>
 
     <li>
-      <strong>IEEE Transactions on Industrial Electronics (TIE)</strong>
+      IEEE Transactions on Industrial Electronics (TIE)
     </li>
 
     <li>
-      <strong>IEEE Transactions on Multimedia (TMM)</strong>
+      IEEE Transactions on Multimedia (TMM)
     </li>
 
   </ul>
@@ -332,7 +332,7 @@ redirect_from:
   <ul class="publication-text-list">
 
     <li>
-      <strong>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>
+      IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
     </li>
 
   </ul>
