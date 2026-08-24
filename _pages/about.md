@@ -25,8 +25,8 @@ redirect_from:
       intelligence, and long-horizon task planning.
     </p>
     <p class="home-summary">
-      I am especially interested in building the robot brain: improving planning, navigation, and grasping
-      capabilities so robots can provide more intelligent embodied assistance.
+      I am especially interested in building the robot brain: improving planning, navigation, and manipulation
+      capabilities so robots can provide more intelligent assistance.
     </p>
 
     <div class="home-tags" aria-label="Research interests">
