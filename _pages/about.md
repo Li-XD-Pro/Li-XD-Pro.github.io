@@ -335,6 +335,14 @@ redirect_from:
       IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
     </li>
 
+    <li>
+      IEEE International Conference on Robotics and Biomimetics (ROBIO)
+    </li>
+
+    <li>
+      IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
+    </li>
+
   </ul>
 
 </div>
