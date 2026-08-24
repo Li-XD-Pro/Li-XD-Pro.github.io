@@ -19,13 +19,11 @@ redirect_from:
       </span>
       <span>About Me</span>
     </h1>
-
     <p class="home-summary">
       I am a PhD student in the Service Robotics Laboratory at the School of Control Science and Engineering,
       Shandong University, advised by Prof. Guohui Tian. My research focuses on service robots, embodied
       intelligence, and long-horizon task planning.
     </p>
-
     <p class="home-summary">
       I am especially interested in building the robot brain: improving planning, navigation, and grasping
       capabilities so robots can provide more intelligent embodied assistance.
@@ -39,7 +37,6 @@ redirect_from:
 
   </div>
 </div>
-
 
 <span class='anchor' id='news'></span>
 
@@ -97,7 +94,6 @@ redirect_from:
 <span class='anchor' id='publications'></span>
 
 <div class="section-heading">
-
   <h2 class="section-title title-with-icon">
     <span class="section-icon" aria-hidden="true">
       <i class="fas fa-layer-group"></i>
@@ -118,7 +114,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-        Semantically Guided Task Planning: Supervised Vision Language Action Model by Large Language Models,
+      Semantically Guided Task Planning: Supervised Vision Language Action Model by Large Language Models,
       <em>IEEE Transactions on Circuits and Systems for Video Technology</em>,
       2026.
       <a class="publication-extra"
@@ -129,7 +125,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-        GRHP: Graph-Fused Hierarchical Planning for Embodied Long-Horizon Robotic Task,
+      GRHP: Graph-Fused Hierarchical Planning for Embodied Long-Horizon Robotic Task,
       <em>Engineering Applications of Artificial Intelligence</em>,
       2026.
       <a class="publication-extra"
@@ -140,7 +136,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-        Task Guided Multimodal Object Search for Service Robots via Reinforcement Learning,
+      Task Guided Multimodal Object Search for Service Robots via Reinforcement Learning,
       <em>IEEE Transactions on Industrial Electronics</em>,
       2025.
       <a class="publication-extra"
@@ -151,7 +147,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-        Fine-Grained Task Planning for Service Robots Based on Object Ontology Knowledge via Large Language Models,
+      Fine-Grained Task Planning for Service Robots Based on Object Ontology Knowledge via Large Language Models,
       <em>IEEE Robotics and Automation Letters</em>,
       2024.
       <a class="publication-extra"
@@ -175,7 +171,7 @@ redirect_from:
 
     <li>
       <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-        Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology,
+      Transformer-Based Relationship Inference Model for Household Object Organization by Integrating Graph Topology and Ontology,
       <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</em>,
       2024.
       <a class="publication-extra"
@@ -286,3 +282,63 @@ redirect_from:
   </li>
 
 </ul>
+
+
+<span class='anchor' id='academic-services'></span>
+
+<div class="section-heading">
+
+  <h2 class="section-title title-with-icon">
+    <span class="section-icon" aria-hidden="true">
+      <i class="fas fa-user-check"></i>
+    </span>
+    <span>Academic Services</span>
+  </h2>
+
+</div>
+
+
+<div class="content-group">
+
+  <h3 class="content-group-title">
+    Journal Reviewer
+  </h3>
+
+  <ul class="publication-text-list">
+
+    <li>
+      Reviewer,
+      <strong>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</strong>
+    </li>
+
+    <li>
+      Reviewer,
+      <strong>IEEE Transactions on Industrial Electronics (TIE)</strong>
+    </li>
+
+    <li>
+      Reviewer,
+      <strong>IEEE Transactions on Multimedia (TMM)</strong>
+    </li>
+
+  </ul>
+
+</div>
+
+
+<div class="content-group">
+
+  <h3 class="content-group-title">
+    Conference Reviewer
+  </h3>
+
+  <ul class="publication-text-list">
+
+    <li>
+      Reviewer,
+      <strong>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</strong>
+    </li>
+
+  </ul>
+
+</div>
