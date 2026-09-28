@@ -273,12 +273,12 @@ redirect_from:
 
   <li>
     <span class="honor-date">2023.09 - Present,</span>
-    <span>Ph.D., School of Control Science and Engineering, Shandong University, Jinan, China.</span>
+    <span>Ph.D., Shandong University, Jinan, China.</span>
   </li>
 
   <li>
     <span class="honor-date">2019.09 - 2023.06,</span>
-    <span>Undergraduate, School of Control Science and Engineering, China University of Petroleum (East China), Qingdao, China.</span>
+    <span>Undergraduate, China University of Petroleum (East China), Qingdao, China.</span>
   </li>
 
 </ul>
