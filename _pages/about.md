@@ -287,32 +287,24 @@ redirect_from:
 <span class='anchor' id='academic-services'></span>
 
 <div class="section-heading">
-
   <h2 class="section-title title-with-icon">
     <span class="section-icon" aria-hidden="true">
       <i class="fas fa-user-check"></i>
     </span>
     <span>Academic Services</span>
   </h2>
-
 </div>
 
 
-<div class="content-group">
-
-  <h3 class="content-group-title">
-    Journal Reviewer for TNNLS, TIE, TMM
-  </h3>
-
-
-</div>
+  <li>
+    <span class="honor-date">Journal Reviewer</span>
+    <span>TNNLS, TIE, TMM</span>
+  </li>
 
 
-<div class="content-group">
+  <li>
+    <span class="honor-date">Conference Reviewer</span>
+    <span>IROS, ROBIO, RO-MAN</span>
+  </li>
+  
 
-  <h3 class="content-group-title">
-    Conference Reviewer for IROS, ROBIO, RO-MAN
-  </h3>
-
-
-</div>
