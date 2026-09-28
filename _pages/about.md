@@ -296,6 +296,7 @@ redirect_from:
 </div>
 
 
+<ul class="service-list service-list--simple">
   <li>
     <span class="honor-date">Journal Reviewer</span>
     <span>TNNLS, TIE, TMM</span>
@@ -307,4 +308,4 @@ redirect_from:
     <span>IROS, ROBIO, RO-MAN</span>
   </li>
   
-
+</ul>
