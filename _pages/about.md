@@ -301,24 +301,9 @@ redirect_from:
 <div class="content-group">
 
   <h3 class="content-group-title">
-    Journal Reviewer
+    Journal Reviewer for TNNLS, TIE, TMM
   </h3>
 
-  <ul class="publication-text-list">
-
-    <li>
-      IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-    </li>
-
-    <li>
-      IEEE Transactions on Industrial Electronics (TIE)
-    </li>
-
-    <li>
-      IEEE Transactions on Multimedia (TMM)
-    </li>
-
-  </ul>
 
 </div>
 
@@ -326,23 +311,8 @@ redirect_from:
 <div class="content-group">
 
   <h3 class="content-group-title">
-    Conference Reviewer
+    Conference Reviewer for IROS, ROBIO, RO-MAN
   </h3>
 
-  <ul class="publication-text-list">
-
-    <li>
-      IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-    </li>
-
-    <li>
-      IEEE International Conference on Robotics and Biomimetics (ROBIO)
-    </li>
-
-    <li>
-      IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)
-    </li>
-
-  </ul>
 
 </div>
