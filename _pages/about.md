@@ -298,12 +298,12 @@ redirect_from:
 
 <ul class="service-list service-list--simple">
   <li>
-    <span>Journal Reviewer: TNNLS, TIE, TMM</span>
+    <span>Journal Reviewer: <strong>TNNLS, TIE, TMM</strong> </span>
   </li>
 
 
   <li>
-    <span>Conference Reviewer: IROS, ROBIO, RO-MAN</span>
+    <span>Conference Reviewer: <strong>IROS, ROBIO, RO-MAN</strong> </span>
   </li>
   
 </ul>
