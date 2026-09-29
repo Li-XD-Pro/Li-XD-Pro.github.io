@@ -303,7 +303,7 @@ redirect_from:
 
 
   <li>
-    <span>Conference Reviewer: <strong>IROS, ROBIO, RO-MAN</strong> </span>
+    <span>Conference Reviewer: <strong>ICRA, IROS, ROBIO, RO-MAN</strong> </span>
   </li>
   
 </ul>
