@@ -305,8 +305,8 @@
     label {
       pointer-events: none;
       cursor: not-allowed;
-      filter: alpha(opacity=65);
       box-shadow: none;
+      filter: alpha(opacity=65);
       opacity: 0.65;
     }
   }
@@ -742,7 +742,7 @@
 }
 
 .timeline-item {
-  margin-bottom: 0.6rem;
+  margin-bottom: 0.3rem;
   padding-left: 0.85rem;
 }
 
@@ -751,12 +751,12 @@
 }
 
 .timeline-date {
-  margin-bottom: 0.18rem;
+  margin-bottom: 0.1rem;
   line-height: 1.25;
 }
 
 .timeline-card {
-  padding: 0.6rem 0.85rem;
+  padding: 0.4rem 0.85rem;
   border-radius: 0.8rem;
   line-height: 1.4;
 }
@@ -892,7 +892,7 @@
   }
 
   .timeline-card {
-    padding: 0.6rem 0.75rem;
+    padding: 0.4rem 0.75rem;
   }
 
   .pub-card {
@@ -1000,4 +1000,3 @@
     font-size: 0.84rem;
   }
 }
-
