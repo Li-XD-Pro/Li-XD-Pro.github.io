@@ -38,6 +38,32 @@ redirect_from:
   </div>
 </div>
 
+<style>
+/* News: a compact, vertically scrollable timeline, similar to the reference sites. */
+.timeline--scrollable {
+  max-height: 320px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 0.75rem;
+  overscroll-behavior-y: contain;
+  scrollbar-width: thin;
+  scrollbar-color: #b8c7d9 transparent;
+}
+
+.timeline--scrollable::-webkit-scrollbar {
+  width: 6px;
+}
+
+.timeline--scrollable::-webkit-scrollbar-thumb {
+  background-color: #b8c7d9;
+  border-radius: 6px;
+}
+
+.timeline--scrollable::-webkit-scrollbar-track {
+  background: transparent;
+}
+</style>
+
 <span class='anchor' id='news'></span>
 
 <div class="section-heading">
@@ -51,7 +77,7 @@ redirect_from:
 
 </div>
 
-<div class="timeline">
+<div class="timeline timeline--scrollable" role="region" aria-label="News updates" tabindex="0">
 
   <div class="timeline-item timeline-item--highlight">
     <div class="timeline-date">2025.12</div>
