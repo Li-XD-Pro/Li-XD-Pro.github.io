@@ -112,23 +112,23 @@ redirect_from:
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2025.12</span>
-    <span class="news-text">Our paper has been accepted by <strong> TCSVT 2026 </strong></span>
+    <span class="news-text">Our paper has been accepted by <strong> TCSVT 2026 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2025.11</span>
-    <span class="news-text">Our paper has been accepted by <strong> EAAI 2026 </strong></span>
+    <span class="news-text">Our paper has been accepted by <strong> EAAI 2026 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2025.06</span>
-    <span class="news-text">Our paper has been accepted by <strong> TIE 2025 </strong></span>
+    <span class="news-text">Our paper has been accepted by <strong> TIE 2025 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2024.06</span>
-    <span class="news-text">Our paper has been accepted by <strong> IROS 2024 </strong></span>
+    <span class="news-text">Our paper has been accepted by <strong> IROS 2024 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2024.06</span>
-    <span class="news-text">Our paper has been accepted by RA-L 2024</span>
+    <span class="news-text">Our paper has been accepted by <strong> RA-L 2024 </strong> </span>
   </li>
 </ul>
 
