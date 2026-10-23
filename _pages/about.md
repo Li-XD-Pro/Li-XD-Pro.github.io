@@ -39,28 +39,62 @@ redirect_from:
 </div>
 
 <style>
-/* News: a compact, vertically scrollable timeline, similar to the reference sites. */
-.timeline--scrollable {
-  max-height: 320px;
+/* Compact News list: dates and text on one line, with internal scrolling. */
+.news-list {
+  list-style: none;
+  margin: 0.5em 0 1.35rem;
+  padding: 0 0.4em 0 0;
+  max-height: 155px;
   overflow-y: auto;
   overflow-x: hidden;
-  padding-right: 0.75rem;
   overscroll-behavior-y: contain;
   scrollbar-width: thin;
   scrollbar-color: #b8c7d9 transparent;
 }
 
-.timeline--scrollable::-webkit-scrollbar {
-  width: 6px;
+.news-list::-webkit-scrollbar {
+  width: 5px;
 }
 
-.timeline--scrollable::-webkit-scrollbar-thumb {
-  background-color: #b8c7d9;
-  border-radius: 6px;
+.news-list::-webkit-scrollbar-thumb {
+  background: #b8c7d9;
+  border-radius: 4px;
 }
 
-.timeline--scrollable::-webkit-scrollbar-track {
+.news-list::-webkit-scrollbar-track {
   background: transparent;
+}
+
+.news-list .news-item {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8em;
+  padding: 0.42em 0;
+  margin: 0;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
+  list-style: none;
+  font-size: 0.92em;
+  line-height: 1.5;
+}
+
+.news-list .news-item:last-child {
+  border-bottom: none;
+}
+
+.news-list .news-date {
+  flex: 0 0 auto;
+  font-size: 0.78em;
+  font-weight: 600;
+  color: #00369f;
+  background: rgba(0, 54, 159, 0.07);
+  padding: 0.15em 0.7em;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.news-list .news-text {
+  flex: 1 1 auto;
+  min-width: 0;
 }
 </style>
 
@@ -77,44 +111,28 @@ redirect_from:
 
 </div>
 
-<div class="timeline timeline--scrollable" role="region" aria-label="News updates" tabindex="0">
-
-  <div class="timeline-item timeline-item--highlight">
-    <div class="timeline-date">2025.12</div>
-    <div class="timeline-card">
-      Our paper has been accepted by <strong>TCSVT 2026</strong>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">2025.11</div>
-    <div class="timeline-card">
-      Our paper has been accepted by <strong>EAAI 2026</strong>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">2025.06</div>
-    <div class="timeline-card">
-      Our paper has been accepted by <strong>TIE 2025</strong>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">2024.06</div>
-    <div class="timeline-card">
-      Our paper has been accepted by <strong>IROS 2024</strong>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">2024.06</div>
-    <div class="timeline-card">
-      Our paper has been accepted by <strong>RA-L 2024</strong>
-    </div>
-  </div>
-
-</div>
+<ul class="news-list" role="region" aria-label="News updates" tabindex="0">
+  <li class="news-item">
+    <span class="news-date">2025.12</span>
+    <span class="news-text">Our paper has been accepted by <strong>TCSVT 2026</strong></span>
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.11</span>
+    <span class="news-text">Our paper has been accepted by <strong>EAAI 2026</strong></span>
+  </li>
+  <li class="news-item">
+    <span class="news-date">2025.06</span>
+    <span class="news-text">Our paper has been accepted by <strong>TIE 2025</strong></span>
+  </li>
+  <li class="news-item">
+    <span class="news-date">2024.06</span>
+    <span class="news-text">Our paper has been accepted by <strong>IROS 2024</strong></span>
+  </li>
+  <li class="news-item">
+    <span class="news-date">2024.06</span>
+    <span class="news-text">Our paper has been accepted by <strong>RA-L 2024</strong></span>
+  </li>
+</ul>
 
 
 <span class='anchor' id='publications'></span>
