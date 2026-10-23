@@ -29,12 +29,6 @@ redirect_from:
       capabilities so robots can provide more intelligent assistance.
     </p>
 
-    <div class="home-tags" aria-label="Research interests">
-      <span class="home-tag">Service Robotics</span>
-      <span class="home-tag">Embodied Intelligence</span>
-      <span class="home-tag">Task Planning</span>
-    </div>
-
   </div>
 </div>
 
