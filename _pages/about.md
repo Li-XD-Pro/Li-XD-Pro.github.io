@@ -69,7 +69,7 @@ redirect_from:
   display: flex;
   align-items: baseline;
   gap: 0.8em;
-  padding: 0.42em 0;
+  padding: 0.65em 0;
   margin: 0;
   border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
   list-style: none;
