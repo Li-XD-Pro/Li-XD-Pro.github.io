@@ -249,6 +249,44 @@ redirect_from:
 
 <div class="honor-groups">
 
+
+  <section class="honor-group">
+
+    <h3 class="content-group-title">
+      Awards
+    </h3>
+
+    <ul class="honor-list honor-list--simple">
+
+      <li>
+        <span class="honor-date">2026.10</span>
+        <span>
+          Young Science and Technology Talent Cultivation Program—Special Project on Doctoral Students(青培博士)
+        </span>
+      </li>
+      
+      <li>
+        <span class="honor-date">2024.12</span>
+        <span>
+          The 21st China Post-Graduate Mathematical Contest in Modeling,
+          Second Prize
+        </span>
+      </li>
+
+      <li>
+        <span class="honor-date">2022.08</span>
+        <span>
+          The 15th Chinese Collegiate Computing Competition,
+          Third Prize
+        </span>
+      </li>
+
+    </ul>
+
+  </section>
+
+
+
   <section class="honor-group">
 
     <h3 class="content-group-title">
@@ -271,34 +309,6 @@ redirect_from:
 
   </section>
 
-
-  <section class="honor-group">
-
-    <h3 class="content-group-title">
-      Competition Awards
-    </h3>
-
-    <ul class="honor-list honor-list--simple">
-
-      <li>
-        <span class="honor-date">2024.12</span>
-        <span>
-          The 21st China Post-Graduate Mathematical Contest in Modeling,
-          Second Prize
-        </span>
-      </li>
-
-      <li>
-        <span class="honor-date">2022.08</span>
-        <span>
-          The 15th Chinese Collegiate Computing Competition,
-          Third Prize
-        </span>
-      </li>
-
-    </ul>
-
-  </section>
 
 </div>
 
