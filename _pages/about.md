@@ -113,6 +113,10 @@ redirect_from:
 
 <ul class="news-list" role="region" aria-label="News updates" tabindex="0">
   <li class="news-item">
+    <span class="news-date">2026.10</span>
+    <span class="news-text">Our paper has been accepted by <strong>ROBIO 2026</strong></span>
+  </li>
+  <li class="news-item">
     <span class="news-date">2025.12</span>
     <span class="news-text">Our paper has been accepted by <strong>TCSVT 2026</strong></span>
   </li>
