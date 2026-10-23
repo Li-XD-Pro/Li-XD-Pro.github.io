@@ -68,13 +68,13 @@ redirect_from:
 .news-list .news-item {
   display: flex;
   align-items: baseline;
-  gap: 0.8em;
+  gap: 0.5rem;
   padding: 0.65em 0;
   margin: 0;
   border-bottom: 1px dashed rgba(0, 0, 0, 0.15);
   list-style: none;
-  font-size: 0.92em;
-  line-height: 1.5;
+  font-size: 1em;
+  line-height: 1.4;
 }
 
 .news-list .news-item:last-child {
@@ -83,12 +83,6 @@ redirect_from:
 
 .news-list .news-date {
   flex: 0 0 auto;
-  font-size: 0.78em;
-  font-weight: 600;
-  color: #00369f;
-  background: rgba(0, 54, 159, 0.07);
-  padding: 0.15em 0.7em;
-  border-radius: 999px;
   white-space: nowrap;
 }
 
@@ -113,28 +107,28 @@ redirect_from:
 
 <ul class="news-list" role="region" aria-label="News updates" tabindex="0">
   <li class="news-item">
-    <span class="news-date">2026.10</span>
-    <span class="news-text">Our paper has been accepted by <strong>ROBIO 2026</strong></span>
+    <span class="honor-date news-date">2026.10</span>
+    <span class="news-text">Our paper has been accepted by ROBIO 2026</span>
   </li>
   <li class="news-item">
-    <span class="news-date">2025.12</span>
-    <span class="news-text">Our paper has been accepted by <strong>TCSVT 2026</strong></span>
+    <span class="honor-date news-date">2025.12</span>
+    <span class="news-text">Our paper has been accepted by TCSVT 2026</span>
   </li>
   <li class="news-item">
-    <span class="news-date">2025.11</span>
-    <span class="news-text">Our paper has been accepted by <strong>EAAI 2026</strong></span>
+    <span class="honor-date news-date">2025.11</span>
+    <span class="news-text">Our paper has been accepted by EAAI 2026</span>
   </li>
   <li class="news-item">
-    <span class="news-date">2025.06</span>
-    <span class="news-text">Our paper has been accepted by <strong>TIE 2025</strong></span>
+    <span class="honor-date news-date">2025.06</span>
+    <span class="news-text">Our paper has been accepted by TIE 2025</span>
   </li>
   <li class="news-item">
-    <span class="news-date">2024.06</span>
-    <span class="news-text">Our paper has been accepted by <strong>IROS 2024</strong></span>
+    <span class="honor-date news-date">2024.06</span>
+    <span class="news-text">Our paper has been accepted by IROS 2024</span>
   </li>
   <li class="news-item">
-    <span class="news-date">2024.06</span>
-    <span class="news-text">Our paper has been accepted by <strong>RA-L 2024</strong></span>
+    <span class="honor-date news-date">2024.06</span>
+    <span class="news-text">Our paper has been accepted by RA-L 2024</span>
   </li>
 </ul>
 
