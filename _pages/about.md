@@ -249,7 +249,7 @@ redirect_from:
       <li>
         <span class="honor-date">2026.10</span>
         <span>
-          Young Science and Technology Talent Cultivation Program—Special Project on Doctoral Students(青培博士)
+          Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)(青培博士)
         </span>
       </li>
       
