@@ -100,6 +100,10 @@ redirect_from:
 </div>
 
 <ul class="news-list" role="region" aria-label="News updates" tabindex="0">
+<li class="news-item">
+    <span class="honor-date news-date">2026.11</span>
+    <span class="news-text"> <strong>National Scholarship (Ph.D.) </strong>, having now earned this honor at the undergraduate, master's, and doctoral levels. </span>
+  </li>
   <li class="news-item">
     <span class="honor-date news-date">2026.10</span>
     <span class="news-text">One paper has been accepted by <strong> ROBIO 2026 </strong> </span>
