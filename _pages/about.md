@@ -38,7 +38,7 @@ redirect_from:
   list-style: none;
   margin: 0.5em 0 1.35rem;
   padding: 0 0.4em 0 0;
-  max-height: 200px;
+  max-height: 400px;
   overflow-y: auto;
   overflow-x: hidden;
   overscroll-behavior-y: contain;
