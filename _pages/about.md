@@ -219,7 +219,7 @@ redirect_from:
       <a class="publication-extra"
          href="https://github.com/Li-XD-Pro/Household-Object-Organization">[Code]</a>
     </li>
-
+    
   </ul>
 
 </div>
@@ -253,7 +253,7 @@ redirect_from:
       <li>
         <span class="honor-date">2026.10</span>
         <span>
-          Young Science and Technology Talent Cultivation Program——Doctoral Student Special Plan(青培博士)
+          Young Science and Technology Talent Cultivation Program (Doctoral Student Special Plan)
         </span>
       </li>
       
