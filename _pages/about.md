@@ -102,7 +102,7 @@ redirect_from:
 <ul class="news-list" role="region" aria-label="News updates" tabindex="0">
 <li class="news-item">
     <span class="honor-date news-date">2026.11</span>
-    <span class="news-text"> <strong>National Scholarship (Ph.D.) </strong>, having now earned this honor at the undergraduate, master's, and doctoral levels. </span>
+    <span class="news-text"> <strong>National Scholarship (Ph.D) </strong>. Honored with this award at undergraduate, master and Ph.D stages </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2026.10</span>
@@ -287,6 +287,11 @@ redirect_from:
 
     <ul class="honor-list honor-list--simple">
 
+      <li>
+        <span class="honor-date">2026.11</span>
+        <span>National Scholarship (Ph.D)</span>
+      </li>
+      
       <li>
         <span class="honor-date">2024.12</span>
         <span>National Scholarship (Master)</span>
