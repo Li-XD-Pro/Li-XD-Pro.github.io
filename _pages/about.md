@@ -96,31 +96,31 @@ redirect_from:
 <ul class="news-list" role="region" aria-label="News updates" tabindex="0">
 <li class="news-item">
     <span class="honor-date news-date">2026.11</span>
-    <span class="news-text"> <span style="color: #2563eb;"> <strong>National Scholarship (Ph.D).</strong> </span> Honored with this award at undergraduate, master and Ph.D stages </span>
+    <span class="news-text"> <strong>National Scholarship (Ph.D).</strong> Honored with this award at undergraduate, master and Ph.D stages </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2026.10</span>
-    <span class="news-text">One paper has been accepted by <span style="color: #2563eb;"> <strong> ROBIO 2026 </strong> </span> </span>
+    <span class="news-text">One paper has been accepted by <strong> ROBIO 2026 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2025.12</span>
-    <span class="news-text">One paper has been accepted by <span style="color: #2563eb;"> <strong> TCSVT 2026 </strong> </span> </span>
+    <span class="news-text">One paper has been accepted by <strong> TCSVT 2026 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2025.11</span>
-    <span class="news-text">One paper has been accepted by <span style="color: #2563eb;"> <strong> EAAI 2026 </strong> </span> </span>
+    <span class="news-text">One paper has been accepted by <strong> EAAI 2026 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2025.06</span>
-    <span class="news-text">One paper has been accepted by <span style="color: #2563eb;"> <strong> TIE 2025 </strong> </span> </span>
+    <span class="news-text">One paper has been accepted by <strong> TIE 2025 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2024.06</span>
-    <span class="news-text">One paper has been accepted by <span style="color: #2563eb;"> <strong> IROS 2024 </strong> </span> </span>
+    <span class="news-text">One paper has been accepted by <strong> IROS 2024 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2024.06</span>
-    <span class="news-text">One paper has been accepted by <span style="color: #2563eb;"> <strong> RA-L 2024 </strong> </span> </span>
+    <span class="news-text">One paper has been accepted by <strong> RA-L 2024 </strong> </span>
   </li>
 </ul>
 
