@@ -96,7 +96,7 @@ redirect_from:
 <ul class="news-list" role="region" aria-label="News updates" tabindex="0">
 <li class="news-item">
     <span class="honor-date news-date">2026.11</span>
-    <span class="news-text"> <strong>National Scholarship (Ph.D).</strong> Honored with this award at undergraduate, master and Ph.D stages </span>
+    <span class="news-text"> <span style="color: #2563eb;"> <strong>National Scholarship (Ph.D).</strong> </span> Honored with this award at undergraduate, master and Ph.D stages </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2026.10</span>
