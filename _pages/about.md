@@ -13,12 +13,6 @@ redirect_from:
 <div class="home-hero">
   <div class="home-hero__intro">
 
-    <h1 class="home-title title-with-icon">
-      <span class="section-icon" aria-hidden="true">
-        <i class="fas fa-user-circle"></i>
-      </span>
-      <span>About Me</span>
-    </h1>
     <p class="home-summary">
       I am a Ph.D student in the Service Robotics Laboratory at the School of Control Science and Engineering,
       Shandong University, advised by Prof. Guohui Tian. My research focuses on service robots, embodied
