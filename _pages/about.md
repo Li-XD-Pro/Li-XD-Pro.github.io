@@ -213,6 +213,13 @@ redirect_from:
       <a class="publication-extra"
          href="https://github.com/Li-XD-Pro/Household-Object-Organization">[Code]</a>
     </li>
+
+    <li>
+      <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
+      Future-Action-Aware Grasp Intent Reasoning for Multi-Step Service Robot Manipulation,
+      <em>IEEE International Conference on Robotics and Biomimetics (ROBIO)</em>,
+      2026.
+    </li>
     
   </ul>
 
