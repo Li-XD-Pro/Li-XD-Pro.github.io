@@ -94,13 +94,9 @@ redirect_from:
 </div>
 
 <ul class="news-list" role="region" aria-label="News updates" tabindex="0">
-<li class="news-item">
+  <li class="news-item">
     <span class="honor-date news-date">2026.11</span>
     <span class="news-text"> <strong>National Scholarship (Ph.D).</strong> Honored with this award at Undergraduate, Master and Ph.D stages </span>
-  </li>
-  <li class="news-item">
-    <span class="honor-date news-date">2026.10</span>
-    <span class="news-text">One paper has been accepted by <strong> ROBIO 2026 </strong> </span>
   </li>
   <li class="news-item">
     <span class="honor-date news-date">2025.12</span>
@@ -212,13 +208,6 @@ redirect_from:
          href="https://ieeexplore.ieee.org/abstract/document/10802781">[Paper]</a>
       <a class="publication-extra"
          href="https://github.com/Li-XD-Pro/Household-Object-Organization">[Code]</a>
-    </li>
-
-    <li>
-      <strong>Xiaodong Li</strong>, Guohui Tian*, et al.,
-      Future-Action-Aware Grasp Intent Reasoning for Multi-Step Service Robot Manipulation,
-      <em>IEEE International Conference on Robotics and Biomimetics (ROBIO)</em>,
-      2026.
     </li>
     
   </ul>
